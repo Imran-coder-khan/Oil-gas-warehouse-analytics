@@ -1,4 +1,6 @@
-# Oil-gas-warehouse-analytics
+# Oil & Gas Project Materials and Warehouse Logistics Analytics
+
+An end-to-end Power BI project: a synthetic 340K-row, 12-table dataset and a 5-page dashboard covering procurement, warehouse operations, inventory health, project material spend and warehouse safety for a multi-site oil & gas supply chain
 
 
 # Executive Overview

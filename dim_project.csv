@@ -1,0 +1,14 @@
+project_id,project_name,project_type,home_warehouse_id,start_date,end_date,priority,project_manager,material_budget_usd,status
+PRJ-00,Routine MRO & Operations,Maintenance,ALL,2024-01-01,2026-12-31,Ongoing,Sanjay Rahman,95634000.0,Ongoing
+PRJ-01,CDU Revamp & Heat Exchanger Replacement,Brownfield Revamp,W01,2024-02-01,2025-03-31,High,Khalid Al-Harbi,16725000.0,Completed
+PRJ-02,Gas Gathering Pipeline - Phase 2,Pipeline,W02,2024-04-15,2025-10-31,High,Rahul Siddiqui,12480000.0,Completed
+PRJ-03,Sulphur Recovery Unit Upgrade,Brownfield Revamp,W03,2024-09-01,2025-12-15,Medium,Sanjay Al-Qahtani,10937000.0,Completed
+PRJ-04,Offshore Platform Topside Maintenance,Maintenance,W04,2025-01-10,2025-09-30,Medium,Khalid Sharma,4322000.0,Completed
+PRJ-05,Tank Farm Expansion - 6 Crude Tanks,Greenfield,W02,2025-03-01,2026-11-30,High,Khalid Sharma,16351000.0,Active
+PRJ-06,Hydrocracker Turnaround 2025,Turnaround,W03,2025-04-01,2025-06-15,Critical,Arjun Siddiqui,1935000.0,Completed
+PRJ-07,132kV Substation Upgrade,Electrical,W05,2024-06-01,2025-05-31,Medium,Vikram Al-Otaibi,12669000.0,Completed
+PRJ-08,Flare System Modernisation,Brownfield Revamp,W04,2025-08-01,2026-08-31,Medium,Vikram Nair,7971000.0,Completed
+PRJ-09,Condensate Stabilisation Unit,Greenfield,W06,2025-02-01,2026-12-31,High,Khalid Al-Harbi,17056000.0,Active
+PRJ-10,LNG Terminal Piping Package,Pipeline,W07,2025-09-01,2027-03-31,Critical,Khalid Mukherjee,14424000.0,Active
+PRJ-11,Refinery Turnaround 2026,Turnaround,W01,2026-03-01,2026-05-20,Critical,Vikram Rahman,5319000.0,Completed
+PRJ-12,Water Injection Plant Expansion,Greenfield,W08,2025-11-01,2027-02-28,Medium,Yusuf Das,11156000.0,Active

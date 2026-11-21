@@ -1,0 +1,9 @@
+warehouse_id,warehouse_name,country,region,warehouse_type,area_sqm,headcount,manager,opened_year
+W01,Jubail Central Warehouse,Saudi Arabia,Eastern Province,Central Hub,28000,170,Arjun Sharma,2015
+W02,Dammam Laydown Yard,Saudi Arabia,Eastern Province,Laydown Yard,42000,90,Yusuf Khan,2011
+W03,Yanbu Refinery Store,Saudi Arabia,Western Region,Site Store,9000,75,Khalid Das,2009
+W04,Ras Tanura Site Store,Saudi Arabia,Eastern Province,Site Store,7500,70,Anil Verma,2016
+W05,Riyadh Distribution Centre,Saudi Arabia,Central Region,Distribution Centre,18000,110,Khalid Rahman,2009
+W06,Paradip Coastal Warehouse,India,Odisha,Site Store,11000,85,Faisal Nair,2016
+W07,Mumbai Port Staging Yard,India,Maharashtra,Laydown Yard,20000,100,Anil Khan,2007
+W08,Kolkata Regional Warehouse,India,West Bengal,Central Hub,15000,95,Priya Nair,2010

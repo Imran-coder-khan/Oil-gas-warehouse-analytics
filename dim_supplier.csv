@@ -1,0 +1,61 @@
+supplier_id,supplier_name,country,tier,supplier_categories,payment_terms_days,rating_score,iso_9001_certified,onboarded_year
+SUP-101,Delta Oilfield Services,Saudi Arabia,Preferred,Structural Steel | Electrical & Cables | Valves | Chemicals & Lubricants,30,4.5,Y,2018
+SUP-102,Ironclad Pipe & Valve Co.,China,Preferred,Flanges & Gaskets | Instrumentation | Safety & PPE,30,4.2,Y,2018
+SUP-103,Unity Safety Equipment,USA,Conditional,Flanges & Gaskets | Structural Steel | Consumables & Tools | Chemicals & Lubricants,60,2.5,N,2017
+SUP-104,Sterling Oilfield Services,China,Approved,Consumables & Tools | Electrical & Cables | Chemicals & Lubricants | Safety & PPE,30,3.7,Y,2021
+SUP-105,Global Technical Services,China,Approved,Consumables & Tools | Chemicals & Lubricants,60,4.2,Y,2015
+SUP-106,Blue Ridge Energy Solutions,Italy,Conditional,Flanges & Gaskets | Structural Steel | Safety & PPE | Valves,45,2.3,N,2011
+SUP-107,Zenith Pipe & Valve Co.,Saudi Arabia,Conditional,Rotating Equipment Spares | Safety & PPE | Flanges & Gaskets | Instrumentation,45,2.7,N,2023
+SUP-108,Cobalt Trading LLC,South Korea,Conditional,Flanges & Gaskets | Structural Steel,45,2.9,N,2023
+SUP-109,Trident Safety Equipment,China,Conditional,Flanges & Gaskets | Chemicals & Lubricants | Rotating Equipment Spares,60,3.0,N,2016
+SUP-110,Falcon Steel Works,Germany,Approved,Instrumentation | Electrical & Cables,60,3.6,N,2017
+SUP-111,Zenith Trading LLC,USA,Approved,Chemicals & Lubricants | Rotating Equipment Spares,90,3.7,N,2016
+SUP-112,Samarth Engineering,UAE,Approved,Safety & PPE | Rotating Equipment Spares | Flanges & Gaskets | Chemicals & Lubricants,30,3.6,Y,2019
+SUP-113,Ironclad Controls & Instruments,Japan,Preferred,Chemicals & Lubricants | Instrumentation | Structural Steel,60,4.9,Y,2012
+SUP-114,Cobalt Safety Equipment,Saudi Arabia,Preferred,Instrumentation | Pipes & Fittings,45,4.6,Y,2021
+SUP-115,Vertex Energy Solutions,India,Approved,Valves | Flanges & Gaskets | Pipes & Fittings | Electrical & Cables,45,3.7,N,2023
+SUP-116,Trident Industrial Supplies,China,Conditional,Electrical & Cables | Rotating Equipment Spares,60,2.9,N,2010
+SUP-117,Al-Noor Safety Equipment,Germany,Preferred,Structural Steel | Pipes & Fittings,45,4.5,Y,2009
+SUP-118,Al-Noor Pipe & Valve Co.,Netherlands,Approved,Chemicals & Lubricants | Flanges & Gaskets | Electrical & Cables | Pipes & Fittings,30,3.6,Y,2018
+SUP-119,Sterling Technical Services,UAE,Approved,Flanges & Gaskets | Structural Steel | Chemicals & Lubricants | Consumables & Tools,45,4.0,Y,2022
+SUP-120,Al-Noor Oilfield Services,Germany,Conditional,Pipes & Fittings | Rotating Equipment Spares,60,2.9,N,2013
+SUP-121,Trident Controls & Instruments,Germany,Conditional,Safety & PPE | Structural Steel | Rotating Equipment Spares | Pipes & Fittings,90,3.0,Y,2012
+SUP-122,Crescent Trading LLC,China,Approved,Pipes & Fittings | Electrical & Cables,90,3.6,Y,2018
+SUP-123,Blue Ridge Safety Equipment,India,Approved,Electrical & Cables | Rotating Equipment Spares,45,3.4,Y,2017
+SUP-124,Orion Oilfield Services,Saudi Arabia,Preferred,Valves | Electrical & Cables | Rotating Equipment Spares,45,4.4,Y,2012
+SUP-125,Trident Energy Solutions,China,Conditional,Safety & PPE | Structural Steel | Chemicals & Lubricants,45,3.1,N,2010
+SUP-126,Horizon Safety Equipment,China,Conditional,Valves | Consumables & Tools | Pipes & Fittings,45,2.9,Y,2018
+SUP-127,Ironclad Energy Solutions,USA,Conditional,Valves | Instrumentation | Chemicals & Lubricants | Pipes & Fittings,90,3.1,Y,2021
+SUP-128,Blue Ridge Trading LLC,China,Preferred,Structural Steel | Chemicals & Lubricants,60,4.7,Y,2008
+SUP-129,Al-Noor Trading LLC,Italy,Approved,Pipes & Fittings | Safety & PPE,60,4.0,Y,2009
+SUP-130,Global Pipe & Valve Co.,Japan,Approved,Chemicals & Lubricants | Pipes & Fittings,60,3.7,Y,2021
+SUP-131,Ironclad Safety Equipment,India,Approved,Chemicals & Lubricants | Safety & PPE | Structural Steel | Pipes & Fittings,45,3.9,Y,2013
+SUP-132,Royal Trading LLC,Netherlands,Preferred,Structural Steel | Flanges & Gaskets | Instrumentation | Safety & PPE,30,4.7,N,2022
+SUP-133,Delta Energy Solutions,Germany,Preferred,Structural Steel | Safety & PPE | Instrumentation | Valves,90,4.4,Y,2011
+SUP-134,Delta Lubricants & Chemicals,Saudi Arabia,Approved,Consumables & Tools | Pipes & Fittings | Instrumentation | Valves,30,3.5,Y,2009
+SUP-135,Eastern Controls & Instruments,UAE,Approved,Safety & PPE | Chemicals & Lubricants,45,3.8,Y,2009
+SUP-136,Titan Technical Services,Saudi Arabia,Approved,Instrumentation | Rotating Equipment Spares | Structural Steel,45,3.6,Y,2015
+SUP-137,Najd Pipe & Valve Co.,India,Conditional,Pipes & Fittings | Structural Steel | Flanges & Gaskets,90,2.9,Y,2019
+SUP-138,Horizon Trading LLC,UK,Approved,Structural Steel | Rotating Equipment Spares | Safety & PPE | Instrumentation,45,3.6,Y,2023
+SUP-139,Delta Electricals,UAE,Approved,Electrical & Cables | Flanges & Gaskets,90,4.1,Y,2021
+SUP-140,Prime Energy Solutions,China,Approved,Safety & PPE | Instrumentation,60,3.6,Y,2022
+SUP-141,Sterling Engineering,USA,Preferred,Structural Steel | Instrumentation,30,4.4,Y,2009
+SUP-142,Najd Energy Solutions,South Korea,Approved,Consumables & Tools | Structural Steel,45,3.8,N,2018
+SUP-143,Petro Steel Works,India,Approved,Instrumentation | Consumables & Tools,30,4.0,Y,2015
+SUP-144,Falcon Electricals,Italy,Conditional,Safety & PPE | Instrumentation,60,3.1,Y,2019
+SUP-145,Anchor Safety Equipment,India,Preferred,Structural Steel | Chemicals & Lubricants | Consumables & Tools,30,4.8,Y,2018
+SUP-146,Horizon Electricals,Japan,Conditional,Rotating Equipment Spares | Safety & PPE | Pipes & Fittings,45,3.0,Y,2021
+SUP-147,Prime Safety Equipment,India,Approved,Rotating Equipment Spares | Instrumentation,90,3.9,Y,2018
+SUP-148,Orion Electricals,UAE,Approved,Chemicals & Lubricants | Consumables & Tools | Flanges & Gaskets | Rotating Equipment Spares,60,3.5,Y,2023
+SUP-149,Vertex Steel Works,Saudi Arabia,Approved,Structural Steel | Pipes & Fittings,30,4.2,Y,2008
+SUP-150,Cobalt Lubricants & Chemicals,India,Approved,Valves | Flanges & Gaskets,30,3.6,Y,2009
+SUP-151,Falcon Engineering,Germany,Preferred,Chemicals & Lubricants | Pipes & Fittings | Structural Steel | Electrical & Cables,90,4.2,Y,2016
+SUP-152,Nova Energy Solutions,China,Preferred,Pipes & Fittings | Structural Steel | Safety & PPE,45,4.3,Y,2012
+SUP-153,Nova Controls & Instruments,UAE,Preferred,Rotating Equipment Spares | Electrical & Cables | Safety & PPE,30,4.5,Y,2015
+SUP-154,Vertex Electricals,Netherlands,Conditional,Electrical & Cables | Valves,30,2.4,Y,2023
+SUP-155,Horizon Industrial Supplies,Saudi Arabia,Approved,Flanges & Gaskets | Valves,90,4.1,Y,2018
+SUP-156,Apex Steel Works,China,Approved,Structural Steel | Pipes & Fittings,45,3.6,N,2023
+SUP-157,Summit Safety Equipment,UAE,Preferred,Electrical & Cables | Structural Steel,30,4.3,Y,2008
+SUP-158,Global Oilfield Services,UK,Approved,Safety & PPE | Valves,60,3.5,Y,2020
+SUP-159,Royal Oilfield Services,Germany,Approved,Safety & PPE | Flanges & Gaskets | Valves,60,3.4,Y,2010
+SUP-160,Meridian Steel Works,India,Approved,Rotating Equipment Spares | Pipes & Fittings | Electrical & Cables | Safety & PPE,90,3.8,Y,2020

@@ -1,0 +1,378 @@
+incident_id,incident_date,warehouse_id,incident_type,severity,work_area,shift,root_cause,days_lost,recordable,investigation_status
+INC-0001,2024-01-05,W03,Near Miss,Low,Laydown Yard,Evening,Inadequate supervision,0,N,Closed
+INC-0002,2024-01-16,W01,Property Damage,Low,Receiving Dock,Day,Procedure not followed,0,N,Closed
+INC-0003,2024-01-22,W05,Near Miss,Medium,Laydown Yard,Night,Lifting / rigging,0,N,Closed
+INC-0004,2024-01-30,W01,Near Miss,Low,Racking / Storage,Day,Unsafe act,0,N,Closed
+INC-0005,2024-02-03,W03,Near Miss,Low,Laydown Yard,Night,Inadequate PPE,0,N,Closed
+INC-0006,2024-02-05,W05,Near Miss,Low,Receiving Dock,Day,Equipment failure,0,N,Closed
+INC-0007,2024-02-06,W05,Near Miss,Medium,Receiving Dock,Day,Inadequate PPE,0,N,Closed
+INC-0008,2024-02-07,W01,Medical Treatment,Medium,Dispatch Area,Day,Unsafe act,0,Y,Closed
+INC-0009,2024-02-08,W07,First Aid,Medium,Workshop,Night,Lifting / rigging,0,N,Closed
+INC-0010,2024-02-11,W01,Near Miss,Low,Receiving Dock,Day,Poor housekeeping,0,N,Closed
+INC-0011,2024-02-12,W05,Near Miss,Medium,Racking / Storage,Evening,Unsafe act,0,N,Closed
+INC-0012,2024-02-15,W07,Near Miss,Low,Racking / Storage,Day,Procedure not followed,0,N,Closed
+INC-0013,2024-02-17,W04,Near Miss,Low,Receiving Dock,Evening,Unsafe act,0,N,Closed
+INC-0014,2024-02-17,W01,First Aid,Medium,Chemical Store,Evening,Procedure not followed,0,N,Closed
+INC-0015,2024-02-21,W04,Near Miss,Low,Receiving Dock,Day,Procedure not followed,0,N,Closed
+INC-0016,2024-02-21,W01,Property Damage,Medium,Laydown Yard,Evening,Inadequate PPE,0,N,Closed
+INC-0017,2024-02-22,W04,Near Miss,Medium,Dispatch Area,Evening,Equipment failure,0,N,Closed
+INC-0018,2024-02-26,W06,Medical Treatment,High,Receiving Dock,Day,Unsafe act,0,Y,Closed
+INC-0019,2024-02-26,W07,Property Damage,Medium,Receiving Dock,Day,Inadequate PPE,0,N,Closed
+INC-0020,2024-02-27,W07,First Aid,Medium,Racking / Storage,Evening,Poor housekeeping,0,N,Closed
+INC-0021,2024-02-29,W04,Near Miss,Low,Dispatch Area,Day,Unsafe act,0,N,Closed
+INC-0022,2024-02-29,W05,Near Miss,Medium,Receiving Dock,Night,Poor housekeeping,0,N,Closed
+INC-0023,2024-03-02,W02,Property Damage,High,Racking / Storage,Day,Equipment failure,0,N,Closed
+INC-0024,2024-03-02,W04,Near Miss,Low,Receiving Dock,Day,Equipment failure,0,N,Closed
+INC-0025,2024-03-05,W05,Near Miss,Medium,Receiving Dock,Night,Inadequate PPE,0,N,Closed
+INC-0026,2024-03-06,W03,First Aid,Low,Racking / Storage,Day,Unsafe act,0,N,Closed
+INC-0027,2024-03-10,W04,Near Miss,Medium,Racking / Storage,Evening,Equipment failure,0,N,Closed
+INC-0028,2024-03-11,W01,Near Miss,Low,Racking / Storage,Night,Poor housekeeping,0,N,Closed
+INC-0029,2024-03-12,W06,Near Miss,Medium,Receiving Dock,Night,Poor housekeeping,0,N,Closed
+INC-0030,2024-03-20,W01,Near Miss,Low,Chemical Store,Day,Lifting / rigging,0,N,Closed
+INC-0031,2024-03-24,W03,Medical Treatment,Medium,Laydown Yard,Day,Adverse weather,0,Y,Closed
+INC-0032,2024-03-29,W01,Near Miss,Low,Laydown Yard,Evening,Unsafe act,0,N,Closed
+INC-0033,2024-03-31,W01,Near Miss,Low,Receiving Dock,Night,Poor housekeeping,0,N,Closed
+INC-0034,2024-04-01,W06,Near Miss,Low,Laydown Yard,Evening,Lifting / rigging,0,N,Closed
+INC-0035,2024-04-04,W01,Near Miss,Low,Workshop,Day,Poor housekeeping,0,N,Closed
+INC-0036,2024-04-05,W03,Near Miss,Low,Receiving Dock,Evening,Equipment failure,0,N,Closed
+INC-0037,2024-04-06,W08,Near Miss,Low,Racking / Storage,Evening,Poor housekeeping,0,N,Closed
+INC-0038,2024-04-14,W02,Near Miss,Low,Racking / Storage,Day,Poor housekeeping,0,N,Closed
+INC-0039,2024-04-15,W01,Property Damage,High,Receiving Dock,Evening,Unsafe act,0,N,Closed
+INC-0040,2024-04-18,W04,Near Miss,Medium,Receiving Dock,Day,Lifting / rigging,0,N,Closed
+INC-0041,2024-04-23,W01,First Aid,Low,Receiving Dock,Day,Unsafe act,0,N,Closed
+INC-0042,2024-04-26,W08,Near Miss,Low,Workshop,Day,Adverse weather,0,N,Closed
+INC-0043,2024-05-04,W05,Near Miss,Low,Receiving Dock,Day,Unsafe act,0,N,Closed
+INC-0044,2024-05-06,W01,Near Miss,Low,Racking / Storage,Day,Unsafe act,0,N,Closed
+INC-0045,2024-05-07,W06,First Aid,Medium,Racking / Storage,Day,Inadequate PPE,0,N,Closed
+INC-0046,2024-05-07,W07,First Aid,Medium,Dispatch Area,Day,Unsafe act,0,N,Closed
+INC-0047,2024-05-09,W08,Near Miss,Low,Dispatch Area,Day,Inadequate PPE,0,N,Closed
+INC-0048,2024-05-16,W02,Near Miss,Low,Dispatch Area,Evening,Procedure not followed,0,N,Closed
+INC-0049,2024-05-18,W01,Near Miss,Low,Racking / Storage,Night,Poor housekeeping,0,N,Closed
+INC-0050,2024-05-20,W04,First Aid,Medium,Workshop,Evening,Procedure not followed,0,N,Closed
+INC-0051,2024-05-20,W08,Near Miss,Low,Racking / Storage,Night,Procedure not followed,0,N,Closed
+INC-0052,2024-05-23,W05,Property Damage,High,Laydown Yard,Day,Inadequate supervision,0,N,Closed
+INC-0053,2024-05-25,W05,Near Miss,Low,Laydown Yard,Day,Procedure not followed,0,N,Closed
+INC-0054,2024-05-27,W04,Near Miss,Low,Receiving Dock,Evening,Equipment failure,0,N,Closed
+INC-0055,2024-05-28,W01,Near Miss,Low,Racking / Storage,Evening,Poor housekeeping,0,N,Closed
+INC-0056,2024-05-30,W06,First Aid,Low,Racking / Storage,Evening,Unsafe act,0,N,Closed
+INC-0057,2024-05-31,W05,Environmental Spill,Medium,Laydown Yard,Day,Inadequate supervision,0,N,Closed
+INC-0058,2024-06-02,W08,Environmental Spill,High,Dispatch Area,Evening,Unsafe act,0,N,Closed
+INC-0059,2024-06-06,W08,Near Miss,Low,Dispatch Area,Day,Procedure not followed,0,N,Closed
+INC-0060,2024-06-06,W01,Near Miss,Low,Racking / Storage,Day,Inadequate supervision,0,N,Closed
+INC-0061,2024-06-13,W08,First Aid,Medium,Workshop,Evening,Lifting / rigging,0,N,Closed
+INC-0062,2024-06-16,W02,Lost Time Injury,High,Receiving Dock,Evening,Lifting / rigging,6,Y,Closed
+INC-0063,2024-06-17,W07,Near Miss,Low,Dispatch Area,Day,Equipment failure,0,N,Closed
+INC-0064,2024-06-20,W06,Near Miss,Medium,Racking / Storage,Day,Unsafe act,0,N,Closed
+INC-0065,2024-06-20,W07,Near Miss,Medium,Chemical Store,Evening,Inadequate PPE,0,N,Closed
+INC-0066,2024-06-20,W07,Near Miss,Low,Workshop,Day,Inadequate supervision,0,N,Closed
+INC-0067,2024-06-25,W03,First Aid,Medium,Racking / Storage,Night,Unsafe act,0,N,Closed
+INC-0068,2024-06-25,W07,Medical Treatment,Medium,Dispatch Area,Night,Adverse weather,0,Y,Closed
+INC-0069,2024-06-26,W01,Property Damage,Medium,Laydown Yard,Evening,Unsafe act,0,N,Closed
+INC-0070,2024-07-02,W03,Near Miss,Medium,Racking / Storage,Day,Inadequate PPE,0,N,Closed
+INC-0071,2024-07-05,W02,Near Miss,Medium,Dispatch Area,Day,Lifting / rigging,0,N,Closed
+INC-0072,2024-07-06,W02,First Aid,Medium,Laydown Yard,Night,Procedure not followed,0,N,Closed
+INC-0073,2024-07-06,W07,First Aid,Medium,Racking / Storage,Evening,Procedure not followed,0,N,Closed
+INC-0074,2024-07-09,W03,First Aid,Low,Receiving Dock,Night,Unsafe act,0,N,Closed
+INC-0075,2024-07-10,W02,Near Miss,Low,Laydown Yard,Day,Poor housekeeping,0,N,Closed
+INC-0076,2024-07-11,W08,Near Miss,Low,Receiving Dock,Day,Lifting / rigging,0,N,Closed
+INC-0077,2024-07-11,W04,Near Miss,Medium,Racking / Storage,Day,Adverse weather,0,N,Closed
+INC-0078,2024-07-13,W01,First Aid,Medium,Dispatch Area,Evening,Inadequate supervision,0,N,Closed
+INC-0079,2024-07-13,W03,Near Miss,Low,Receiving Dock,Night,Unsafe act,0,N,Closed
+INC-0080,2024-07-16,W08,Property Damage,Medium,Receiving Dock,Day,Inadequate supervision,0,N,Closed
+INC-0081,2024-07-23,W01,Near Miss,Medium,Workshop,Day,Unsafe act,0,N,Closed
+INC-0082,2024-07-24,W02,Near Miss,Low,Receiving Dock,Night,Procedure not followed,0,N,Closed
+INC-0083,2024-07-27,W05,Property Damage,Low,Receiving Dock,Day,Procedure not followed,0,N,Closed
+INC-0084,2024-07-29,W06,First Aid,Low,Dispatch Area,Day,Poor housekeeping,0,N,Closed
+INC-0085,2024-08-03,W03,Near Miss,Medium,Receiving Dock,Evening,Inadequate supervision,0,N,Closed
+INC-0086,2024-08-07,W01,Property Damage,Low,Racking / Storage,Day,Inadequate PPE,0,N,Closed
+INC-0087,2024-08-17,W01,Near Miss,Low,Racking / Storage,Evening,Lifting / rigging,0,N,Closed
+INC-0088,2024-08-20,W02,Near Miss,Medium,Dispatch Area,Night,Lifting / rigging,0,N,Closed
+INC-0089,2024-08-27,W05,First Aid,Medium,Receiving Dock,Day,Poor housekeeping,0,N,Closed
+INC-0090,2024-08-31,W03,Property Damage,Medium,Workshop,Day,Procedure not followed,0,N,Closed
+INC-0091,2024-09-02,W05,Near Miss,Low,Dispatch Area,Day,Equipment failure,0,N,Closed
+INC-0092,2024-09-08,W01,Near Miss,Low,Dispatch Area,Day,Procedure not followed,0,N,Closed
+INC-0093,2024-09-08,W02,Near Miss,Medium,Laydown Yard,Night,Equipment failure,0,N,Closed
+INC-0094,2024-09-13,W02,Near Miss,Low,Laydown Yard,Day,Lifting / rigging,0,N,Closed
+INC-0095,2024-09-16,W05,Near Miss,Low,Racking / Storage,Night,Lifting / rigging,0,N,Closed
+INC-0096,2024-09-19,W05,Near Miss,Low,Laydown Yard,Evening,Unsafe act,0,N,Closed
+INC-0097,2024-09-23,W02,Near Miss,Medium,Laydown Yard,Evening,Procedure not followed,0,N,Closed
+INC-0098,2024-09-29,W02,Near Miss,Low,Racking / Storage,Day,Poor housekeeping,0,N,Closed
+INC-0099,2024-09-30,W03,Property Damage,Medium,Receiving Dock,Day,Inadequate PPE,0,N,Closed
+INC-0100,2024-10-08,W03,Environmental Spill,Medium,Receiving Dock,Day,Inadequate supervision,0,N,Closed
+INC-0101,2024-10-10,W08,Near Miss,Medium,Racking / Storage,Night,Procedure not followed,0,N,Closed
+INC-0102,2024-10-18,W05,Near Miss,Low,Racking / Storage,Night,Procedure not followed,0,N,Closed
+INC-0103,2024-10-25,W06,Near Miss,Low,Receiving Dock,Night,Inadequate PPE,0,N,Closed
+INC-0104,2024-10-26,W01,Near Miss,Low,Racking / Storage,Day,Procedure not followed,0,N,Closed
+INC-0105,2024-10-29,W01,Near Miss,Low,Receiving Dock,Evening,Unsafe act,0,N,Closed
+INC-0106,2024-10-29,W02,First Aid,Low,Laydown Yard,Day,Procedure not followed,0,N,Closed
+INC-0107,2024-10-31,W06,Near Miss,Low,Receiving Dock,Day,Poor housekeeping,0,N,Closed
+INC-0108,2024-11-02,W01,Lost Time Injury,Critical,Workshop,Day,Poor housekeeping,21,Y,Closed
+INC-0109,2024-11-04,W02,Near Miss,Medium,Dispatch Area,Night,Poor housekeeping,0,N,Closed
+INC-0110,2024-11-10,W01,Property Damage,Medium,Chemical Store,Evening,Poor housekeeping,0,N,Closed
+INC-0111,2024-11-19,W07,Lost Time Injury,High,Chemical Store,Day,Inadequate PPE,25,Y,Closed
+INC-0112,2024-11-21,W08,Near Miss,Medium,Laydown Yard,Night,Inadequate supervision,0,N,Closed
+INC-0113,2024-11-23,W06,Near Miss,Medium,Receiving Dock,Day,Poor housekeeping,0,N,Closed
+INC-0114,2024-11-23,W03,Near Miss,Medium,Chemical Store,Day,Procedure not followed,0,N,Closed
+INC-0115,2024-11-24,W06,First Aid,Medium,Receiving Dock,Evening,Lifting / rigging,0,N,Closed
+INC-0116,2024-12-02,W03,Near Miss,Low,Chemical Store,Night,Poor housekeeping,0,N,Closed
+INC-0117,2024-12-03,W01,Near Miss,Low,Racking / Storage,Day,Adverse weather,0,N,Closed
+INC-0118,2024-12-06,W08,Near Miss,Low,Laydown Yard,Day,Equipment failure,0,N,Closed
+INC-0119,2024-12-11,W02,Near Miss,Medium,Laydown Yard,Evening,Unsafe act,0,N,Closed
+INC-0120,2024-12-19,W01,First Aid,Medium,Receiving Dock,Night,Equipment failure,0,N,Closed
+INC-0121,2024-12-19,W02,First Aid,Medium,Laydown Yard,Day,Inadequate PPE,0,N,Closed
+INC-0122,2024-12-19,W04,Property Damage,High,Receiving Dock,Day,Inadequate PPE,0,N,Closed
+INC-0123,2024-12-22,W04,Near Miss,Medium,Laydown Yard,Evening,Adverse weather,0,N,Closed
+INC-0124,2024-12-23,W01,Near Miss,Medium,Receiving Dock,Evening,Procedure not followed,0,N,Closed
+INC-0125,2024-12-25,W04,Near Miss,Low,Workshop,Night,Procedure not followed,0,N,Closed
+INC-0126,2024-12-29,W05,Medical Treatment,High,Receiving Dock,Day,Unsafe act,0,Y,Closed
+INC-0127,2025-01-01,W03,Property Damage,Medium,Workshop,Day,Procedure not followed,0,N,Closed
+INC-0128,2025-01-01,W03,Near Miss,Low,Laydown Yard,Night,Poor housekeeping,0,N,Closed
+INC-0129,2025-01-03,W08,Near Miss,Low,Workshop,Day,Procedure not followed,0,N,Closed
+INC-0130,2025-01-07,W01,First Aid,Low,Receiving Dock,Day,Equipment failure,0,N,Closed
+INC-0131,2025-01-10,W06,Near Miss,Low,Receiving Dock,Evening,Poor housekeeping,0,N,Closed
+INC-0132,2025-01-21,W03,Near Miss,Low,Receiving Dock,Day,Lifting / rigging,0,N,Closed
+INC-0133,2025-01-21,W02,First Aid,Medium,Receiving Dock,Evening,Procedure not followed,0,N,Closed
+INC-0134,2025-01-22,W02,First Aid,Medium,Racking / Storage,Evening,Unsafe act,0,N,Closed
+INC-0135,2025-01-29,W01,Near Miss,Low,Receiving Dock,Night,Equipment failure,0,N,Closed
+INC-0136,2025-01-31,W01,First Aid,Medium,Receiving Dock,Day,Inadequate supervision,0,N,Closed
+INC-0137,2025-02-04,W06,Medical Treatment,High,Racking / Storage,Day,Unsafe act,0,Y,Closed
+INC-0138,2025-02-09,W05,First Aid,Low,Chemical Store,Evening,Unsafe act,0,N,Closed
+INC-0139,2025-02-10,W06,First Aid,Medium,Racking / Storage,Evening,Lifting / rigging,0,N,Closed
+INC-0140,2025-02-12,W03,Near Miss,Medium,Receiving Dock,Day,Lifting / rigging,0,N,Closed
+INC-0141,2025-02-13,W08,Near Miss,Low,Racking / Storage,Evening,Unsafe act,0,N,Closed
+INC-0142,2025-02-13,W01,First Aid,Low,Receiving Dock,Night,Inadequate supervision,0,N,Closed
+INC-0143,2025-02-15,W05,Near Miss,Low,Receiving Dock,Evening,Unsafe act,0,N,Closed
+INC-0144,2025-02-22,W01,First Aid,Low,Laydown Yard,Day,Inadequate PPE,0,N,Closed
+INC-0145,2025-02-22,W03,Near Miss,Medium,Laydown Yard,Evening,Inadequate PPE,0,N,Closed
+INC-0146,2025-02-28,W01,Lost Time Injury,High,Dispatch Area,Night,Inadequate PPE,5,Y,Closed
+INC-0147,2025-03-01,W04,Near Miss,Low,Dispatch Area,Day,Lifting / rigging,0,N,Closed
+INC-0148,2025-03-08,W01,Near Miss,Medium,Receiving Dock,Day,Unsafe act,0,N,Closed
+INC-0149,2025-03-18,W01,Near Miss,Low,Dispatch Area,Day,Inadequate PPE,0,N,Closed
+INC-0150,2025-03-25,W01,Near Miss,Low,Dispatch Area,Day,Poor housekeeping,0,N,Closed
+INC-0151,2025-03-26,W04,Near Miss,Low,Laydown Yard,Evening,Inadequate PPE,0,N,Closed
+INC-0152,2025-03-29,W04,Near Miss,Medium,Chemical Store,Day,Procedure not followed,0,N,Closed
+INC-0153,2025-04-01,W03,Near Miss,Low,Dispatch Area,Day,Unsafe act,0,N,Closed
+INC-0154,2025-04-02,W01,Near Miss,Low,Dispatch Area,Day,Inadequate supervision,0,N,Closed
+INC-0155,2025-04-02,W07,Property Damage,Medium,Laydown Yard,Evening,Lifting / rigging,0,N,Closed
+INC-0156,2025-04-03,W07,Near Miss,Low,Dispatch Area,Night,Unsafe act,0,N,Closed
+INC-0157,2025-04-08,W01,First Aid,Medium,Racking / Storage,Day,Unsafe act,0,N,Closed
+INC-0158,2025-04-10,W08,Near Miss,Low,Laydown Yard,Day,Poor housekeeping,0,N,Closed
+INC-0159,2025-04-11,W02,Property Damage,High,Racking / Storage,Evening,Poor housekeeping,0,N,Closed
+INC-0160,2025-04-11,W06,First Aid,Low,Receiving Dock,Evening,Adverse weather,0,N,Closed
+INC-0161,2025-04-12,W02,First Aid,Medium,Dispatch Area,Day,Unsafe act,0,N,Closed
+INC-0162,2025-04-12,W03,Near Miss,Low,Racking / Storage,Night,Unsafe act,0,N,Closed
+INC-0163,2025-04-13,W07,First Aid,Medium,Racking / Storage,Day,Lifting / rigging,0,N,Closed
+INC-0164,2025-04-14,W02,Near Miss,Medium,Laydown Yard,Day,Lifting / rigging,0,N,Closed
+INC-0165,2025-04-19,W04,Near Miss,Low,Racking / Storage,Evening,Lifting / rigging,0,N,Closed
+INC-0166,2025-04-20,W01,Near Miss,Low,Racking / Storage,Day,Lifting / rigging,0,N,Closed
+INC-0167,2025-04-21,W05,First Aid,Medium,Workshop,Evening,Inadequate supervision,0,N,Closed
+INC-0168,2025-04-24,W03,Near Miss,Low,Dispatch Area,Night,Procedure not followed,0,N,Closed
+INC-0169,2025-05-02,W06,Near Miss,Low,Laydown Yard,Evening,Poor housekeeping,0,N,Closed
+INC-0170,2025-05-02,W05,Near Miss,Low,Receiving Dock,Evening,Equipment failure,0,N,Closed
+INC-0171,2025-05-05,W05,Near Miss,Low,Dispatch Area,Evening,Equipment failure,0,N,Closed
+INC-0172,2025-05-09,W05,Near Miss,Medium,Receiving Dock,Day,Unsafe act,0,N,Closed
+INC-0173,2025-05-13,W05,Property Damage,High,Receiving Dock,Night,Lifting / rigging,0,N,Closed
+INC-0174,2025-05-14,W07,Near Miss,Low,Dispatch Area,Day,Poor housekeeping,0,N,Closed
+INC-0175,2025-05-15,W05,Near Miss,Low,Racking / Storage,Day,Procedure not followed,0,N,Closed
+INC-0176,2025-05-18,W08,First Aid,Low,Racking / Storage,Day,Equipment failure,0,N,Closed
+INC-0177,2025-05-18,W04,Medical Treatment,Medium,Receiving Dock,Evening,Poor housekeeping,0,Y,Closed
+INC-0178,2025-05-21,W01,Near Miss,Medium,Racking / Storage,Evening,Adverse weather,0,N,Closed
+INC-0179,2025-05-27,W02,First Aid,Medium,Laydown Yard,Day,Unsafe act,0,N,Closed
+INC-0180,2025-06-10,W01,Near Miss,Medium,Receiving Dock,Day,Inadequate supervision,0,N,Closed
+INC-0181,2025-06-11,W04,First Aid,Low,Workshop,Day,Inadequate PPE,0,N,Closed
+INC-0182,2025-06-17,W02,Near Miss,Medium,Laydown Yard,Day,Procedure not followed,0,N,Closed
+INC-0183,2025-06-17,W01,First Aid,Low,Racking / Storage,Day,Poor housekeeping,0,N,Closed
+INC-0184,2025-06-18,W04,Near Miss,Low,Racking / Storage,Day,Inadequate PPE,0,N,Closed
+INC-0185,2025-06-19,W01,Near Miss,Medium,Dispatch Area,Night,Lifting / rigging,0,N,Closed
+INC-0186,2025-06-21,W06,First Aid,Medium,Racking / Storage,Night,Unsafe act,0,N,Closed
+INC-0187,2025-06-21,W05,Near Miss,Low,Racking / Storage,Evening,Procedure not followed,0,N,Closed
+INC-0188,2025-06-24,W03,Near Miss,Low,Receiving Dock,Evening,Poor housekeeping,0,N,Closed
+INC-0189,2025-07-01,W08,Near Miss,Low,Racking / Storage,Evening,Unsafe act,0,N,Closed
+INC-0190,2025-07-11,W02,Near Miss,Low,Racking / Storage,Night,Unsafe act,0,N,Closed
+INC-0191,2025-07-16,W03,First Aid,Medium,Laydown Yard,Day,Adverse weather,0,N,Closed
+INC-0192,2025-07-16,W03,Near Miss,Medium,Dispatch Area,Evening,Inadequate supervision,0,N,Closed
+INC-0193,2025-07-18,W08,Near Miss,Low,Dispatch Area,Evening,Procedure not followed,0,N,Closed
+INC-0194,2025-07-21,W01,Near Miss,Low,Laydown Yard,Evening,Adverse weather,0,N,Closed
+INC-0195,2025-07-22,W01,Near Miss,Low,Receiving Dock,Day,Inadequate supervision,0,N,Closed
+INC-0196,2025-07-25,W08,Near Miss,Low,Workshop,Evening,Poor housekeeping,0,N,Closed
+INC-0197,2025-07-27,W05,Near Miss,Low,Receiving Dock,Evening,Unsafe act,0,N,Closed
+INC-0198,2025-07-27,W08,Fire / Explosion Near Miss,High,Laydown Yard,Day,Poor housekeeping,0,N,Closed
+INC-0199,2025-07-28,W01,First Aid,Medium,Laydown Yard,Night,Equipment failure,0,N,Closed
+INC-0200,2025-07-29,W07,Near Miss,Medium,Receiving Dock,Day,Lifting / rigging,0,N,Closed
+INC-0201,2025-07-31,W08,Medical Treatment,Medium,Receiving Dock,Night,Lifting / rigging,0,Y,Closed
+INC-0202,2025-08-02,W04,Near Miss,Low,Laydown Yard,Evening,Procedure not followed,0,N,Closed
+INC-0203,2025-08-03,W01,Near Miss,Low,Chemical Store,Day,Lifting / rigging,0,N,Closed
+INC-0204,2025-08-03,W07,Near Miss,Low,Receiving Dock,Day,Lifting / rigging,0,N,Closed
+INC-0205,2025-08-03,W03,First Aid,Medium,Laydown Yard,Day,Poor housekeeping,0,N,Closed
+INC-0206,2025-08-05,W01,Near Miss,Low,Racking / Storage,Day,Inadequate PPE,0,N,Closed
+INC-0207,2025-08-06,W02,Medical Treatment,Medium,Workshop,Evening,Poor housekeeping,0,Y,Closed
+INC-0208,2025-08-12,W07,Near Miss,Medium,Laydown Yard,Night,Inadequate PPE,0,N,Closed
+INC-0209,2025-08-15,W05,Near Miss,Low,Dispatch Area,Evening,Poor housekeeping,0,N,Closed
+INC-0210,2025-08-16,W01,Near Miss,Low,Laydown Yard,Night,Equipment failure,0,N,Closed
+INC-0211,2025-08-18,W06,Near Miss,Low,Receiving Dock,Evening,Poor housekeeping,0,N,Closed
+INC-0212,2025-08-20,W05,Environmental Spill,High,Receiving Dock,Night,Procedure not followed,0,N,Closed
+INC-0213,2025-08-20,W08,Near Miss,Low,Dispatch Area,Day,Poor housekeeping,0,N,Closed
+INC-0214,2025-08-20,W05,First Aid,Medium,Laydown Yard,Night,Lifting / rigging,0,N,Closed
+INC-0215,2025-08-25,W02,Near Miss,Low,Receiving Dock,Day,Unsafe act,0,N,Closed
+INC-0216,2025-08-26,W01,Medical Treatment,Medium,Receiving Dock,Day,Unsafe act,0,Y,Closed
+INC-0217,2025-08-26,W06,Near Miss,Low,Workshop,Day,Procedure not followed,0,N,Closed
+INC-0218,2025-08-27,W02,Near Miss,Low,Racking / Storage,Day,Unsafe act,0,N,Closed
+INC-0219,2025-09-02,W04,Property Damage,High,Receiving Dock,Day,Inadequate supervision,0,N,Closed
+INC-0220,2025-09-02,W08,First Aid,Low,Laydown Yard,Day,Inadequate PPE,0,N,Closed
+INC-0221,2025-09-05,W05,Near Miss,Low,Racking / Storage,Evening,Lifting / rigging,0,N,Closed
+INC-0222,2025-09-07,W04,Near Miss,Low,Receiving Dock,Day,Lifting / rigging,0,N,Closed
+INC-0223,2025-09-09,W02,Medical Treatment,High,Racking / Storage,Day,Inadequate PPE,0,Y,Closed
+INC-0224,2025-09-15,W01,Near Miss,Low,Workshop,Night,Procedure not followed,0,N,Closed
+INC-0225,2025-09-17,W08,Fire / Explosion Near Miss,High,Racking / Storage,Night,Inadequate PPE,0,N,Closed
+INC-0226,2025-09-18,W08,Near Miss,Medium,Receiving Dock,Day,Unsafe act,0,N,Closed
+INC-0227,2025-09-18,W08,Property Damage,Low,Racking / Storage,Evening,Unsafe act,0,N,Closed
+INC-0228,2025-09-24,W04,Near Miss,Low,Chemical Store,Day,Inadequate PPE,0,N,Closed
+INC-0229,2025-09-25,W06,Near Miss,Low,Dispatch Area,Evening,Procedure not followed,0,N,Closed
+INC-0230,2025-09-26,W07,Near Miss,Medium,Racking / Storage,Night,Inadequate PPE,0,N,Closed
+INC-0231,2025-09-30,W01,Medical Treatment,Medium,Receiving Dock,Day,Poor housekeeping,0,Y,Closed
+INC-0232,2025-09-30,W01,Near Miss,Medium,Workshop,Evening,Unsafe act,0,N,Closed
+INC-0233,2025-09-30,W01,First Aid,Low,Receiving Dock,Night,Procedure not followed,0,N,Closed
+INC-0234,2025-10-02,W08,First Aid,Low,Receiving Dock,Day,Equipment failure,0,N,Closed
+INC-0235,2025-10-02,W01,Near Miss,Low,Receiving Dock,Day,Unsafe act,0,N,Closed
+INC-0236,2025-10-08,W03,Near Miss,Low,Receiving Dock,Night,Inadequate supervision,0,N,Closed
+INC-0237,2025-10-09,W03,First Aid,Low,Receiving Dock,Day,Lifting / rigging,0,N,Closed
+INC-0238,2025-10-09,W02,Near Miss,Low,Racking / Storage,Evening,Inadequate PPE,0,N,Closed
+INC-0239,2025-10-13,W02,Near Miss,Medium,Laydown Yard,Day,Unsafe act,0,N,Closed
+INC-0240,2025-10-13,W01,Near Miss,Low,Laydown Yard,Day,Equipment failure,0,N,Closed
+INC-0241,2025-10-20,W07,First Aid,Medium,Dispatch Area,Day,Poor housekeeping,0,N,Closed
+INC-0242,2025-10-20,W07,Lost Time Injury,Critical,Workshop,Night,Procedure not followed,5,Y,Closed
+INC-0243,2025-10-20,W01,Near Miss,Low,Workshop,Evening,Unsafe act,0,N,Closed
+INC-0244,2025-10-22,W01,Property Damage,Low,Workshop,Evening,Lifting / rigging,0,N,Closed
+INC-0245,2025-10-23,W02,Near Miss,Medium,Racking / Storage,Night,Adverse weather,0,N,Closed
+INC-0246,2025-10-25,W07,First Aid,Low,Racking / Storage,Evening,Equipment failure,0,N,Closed
+INC-0247,2025-10-26,W08,Near Miss,Medium,Receiving Dock,Evening,Unsafe act,0,N,Closed
+INC-0248,2025-11-02,W04,Near Miss,Low,Racking / Storage,Day,Unsafe act,0,N,Closed
+INC-0249,2025-11-03,W05,Near Miss,Medium,Laydown Yard,Evening,Poor housekeeping,0,N,Closed
+INC-0250,2025-11-03,W01,Near Miss,Low,Workshop,Evening,Lifting / rigging,0,N,Closed
+INC-0251,2025-11-06,W02,First Aid,Medium,Laydown Yard,Evening,Unsafe act,0,N,Closed
+INC-0252,2025-11-10,W01,First Aid,Medium,Racking / Storage,Night,Lifting / rigging,0,N,Closed
+INC-0253,2025-11-11,W06,First Aid,Medium,Racking / Storage,Night,Lifting / rigging,0,N,Closed
+INC-0254,2025-11-14,W07,Near Miss,Low,Workshop,Day,Equipment failure,0,N,Closed
+INC-0255,2025-11-21,W01,Near Miss,Medium,Receiving Dock,Evening,Poor housekeeping,0,N,Closed
+INC-0256,2025-11-22,W07,Near Miss,Medium,Racking / Storage,Evening,Equipment failure,0,N,Closed
+INC-0257,2025-11-27,W05,Near Miss,Low,Receiving Dock,Day,Unsafe act,0,N,Closed
+INC-0258,2025-12-02,W06,Fire / Explosion Near Miss,High,Workshop,Day,Adverse weather,0,N,Closed
+INC-0259,2025-12-03,W01,First Aid,Medium,Racking / Storage,Day,Poor housekeeping,0,N,Closed
+INC-0260,2025-12-09,W02,Environmental Spill,Medium,Racking / Storage,Day,Inadequate supervision,0,N,Closed
+INC-0261,2025-12-10,W05,Near Miss,Low,Receiving Dock,Evening,Inadequate supervision,0,N,Closed
+INC-0262,2025-12-10,W07,First Aid,Medium,Dispatch Area,Day,Poor housekeeping,0,N,Closed
+INC-0263,2025-12-10,W06,First Aid,Low,Chemical Store,Day,Equipment failure,0,N,Closed
+INC-0264,2025-12-12,W01,First Aid,Low,Laydown Yard,Evening,Unsafe act,0,N,Closed
+INC-0265,2025-12-16,W01,Near Miss,Low,Dispatch Area,Day,Unsafe act,0,N,Closed
+INC-0266,2025-12-20,W04,Near Miss,Low,Workshop,Day,Unsafe act,0,N,Closed
+INC-0267,2025-12-21,W05,Environmental Spill,Medium,Racking / Storage,Day,Inadequate PPE,0,N,Closed
+INC-0268,2025-12-21,W07,First Aid,Medium,Receiving Dock,Night,Poor housekeeping,0,N,Closed
+INC-0269,2025-12-25,W01,First Aid,Low,Receiving Dock,Night,Unsafe act,0,N,Closed
+INC-0270,2026-01-03,W06,First Aid,Low,Receiving Dock,Evening,Poor housekeeping,0,N,Closed
+INC-0271,2026-01-07,W02,Property Damage,High,Racking / Storage,Night,Lifting / rigging,0,N,Closed
+INC-0272,2026-01-10,W07,Property Damage,High,Receiving Dock,Day,Unsafe act,0,N,Closed
+INC-0273,2026-01-24,W06,Near Miss,Medium,Receiving Dock,Day,Poor housekeeping,0,N,Closed
+INC-0274,2026-01-26,W06,First Aid,Medium,Racking / Storage,Evening,Poor housekeeping,0,N,Closed
+INC-0275,2026-01-26,W08,Near Miss,Low,Receiving Dock,Day,Procedure not followed,0,N,Closed
+INC-0276,2026-01-28,W01,Medical Treatment,High,Receiving Dock,Night,Poor housekeeping,0,Y,Closed
+INC-0277,2026-01-29,W08,Environmental Spill,High,Receiving Dock,Day,Poor housekeeping,0,N,Closed
+INC-0278,2026-02-03,W03,First Aid,Low,Receiving Dock,Evening,Adverse weather,0,N,Closed
+INC-0279,2026-02-06,W02,Property Damage,Low,Dispatch Area,Evening,Unsafe act,0,N,Closed
+INC-0280,2026-02-06,W02,First Aid,Low,Receiving Dock,Night,Procedure not followed,0,N,Closed
+INC-0281,2026-02-06,W04,Near Miss,Low,Workshop,Day,Unsafe act,0,N,Closed
+INC-0282,2026-02-08,W01,Near Miss,Low,Racking / Storage,Day,Procedure not followed,0,N,Closed
+INC-0283,2026-02-08,W05,Near Miss,Medium,Laydown Yard,Day,Unsafe act,0,N,Closed
+INC-0284,2026-02-10,W07,Near Miss,Medium,Racking / Storage,Night,Inadequate supervision,0,N,Closed
+INC-0285,2026-02-12,W08,First Aid,Low,Laydown Yard,Night,Lifting / rigging,0,N,Closed
+INC-0286,2026-02-15,W04,First Aid,Medium,Workshop,Day,Unsafe act,0,N,Closed
+INC-0287,2026-02-16,W05,Near Miss,Medium,Racking / Storage,Evening,Unsafe act,0,N,Closed
+INC-0288,2026-02-17,W04,First Aid,Medium,Dispatch Area,Day,Unsafe act,0,N,Closed
+INC-0289,2026-02-18,W06,First Aid,Medium,Laydown Yard,Night,Poor housekeeping,0,N,Closed
+INC-0290,2026-02-18,W01,First Aid,Low,Receiving Dock,Day,Unsafe act,0,N,Closed
+INC-0291,2026-02-22,W03,Near Miss,Medium,Racking / Storage,Day,Unsafe act,0,N,Closed
+INC-0292,2026-02-22,W01,Medical Treatment,High,Laydown Yard,Evening,Lifting / rigging,0,Y,Closed
+INC-0293,2026-02-23,W02,Near Miss,Medium,Receiving Dock,Night,Adverse weather,0,N,Closed
+INC-0294,2026-02-24,W06,Near Miss,Low,Receiving Dock,Evening,Unsafe act,0,N,Closed
+INC-0295,2026-02-26,W03,Medical Treatment,Medium,Racking / Storage,Day,Poor housekeeping,0,Y,Closed
+INC-0296,2026-02-27,W07,Near Miss,Low,Racking / Storage,Day,Equipment failure,0,N,Closed
+INC-0297,2026-02-27,W03,Environmental Spill,High,Workshop,Evening,Procedure not followed,0,N,Closed
+INC-0298,2026-03-01,W07,Medical Treatment,High,Receiving Dock,Evening,Lifting / rigging,0,Y,Closed
+INC-0299,2026-03-02,W08,Property Damage,Medium,Laydown Yard,Evening,Unsafe act,0,N,Closed
+INC-0300,2026-03-03,W01,Near Miss,Medium,Racking / Storage,Day,Inadequate supervision,0,N,Closed
+INC-0301,2026-03-04,W04,Near Miss,Medium,Receiving Dock,Night,Poor housekeeping,0,N,Closed
+INC-0302,2026-03-07,W04,Near Miss,Low,Workshop,Day,Inadequate supervision,0,N,Closed
+INC-0303,2026-03-12,W02,Medical Treatment,Medium,Receiving Dock,Evening,Procedure not followed,0,Y,Closed
+INC-0304,2026-03-14,W01,Near Miss,Low,Dispatch Area,Day,Procedure not followed,0,N,Closed
+INC-0305,2026-03-14,W06,Near Miss,Low,Racking / Storage,Day,Inadequate PPE,0,N,Closed
+INC-0306,2026-03-18,W05,First Aid,Low,Laydown Yard,Evening,Unsafe act,0,N,Closed
+INC-0307,2026-03-23,W03,Near Miss,Low,Workshop,Day,Poor housekeeping,0,N,Closed
+INC-0308,2026-03-24,W04,Near Miss,Low,Laydown Yard,Day,Unsafe act,0,N,Closed
+INC-0309,2026-03-25,W08,Near Miss,Low,Laydown Yard,Day,Procedure not followed,0,N,Closed
+INC-0310,2026-03-26,W07,Near Miss,Low,Laydown Yard,Day,Inadequate PPE,0,N,Closed
+INC-0311,2026-03-27,W05,First Aid,Medium,Dispatch Area,Night,Lifting / rigging,0,N,Closed
+INC-0312,2026-03-28,W04,Near Miss,Low,Racking / Storage,Evening,Adverse weather,0,N,Closed
+INC-0313,2026-03-29,W07,Near Miss,Medium,Chemical Store,Night,Inadequate PPE,0,N,Closed
+INC-0314,2026-03-30,W08,Medical Treatment,Medium,Workshop,Day,Procedure not followed,0,Y,Closed
+INC-0315,2026-04-05,W07,Near Miss,Medium,Laydown Yard,Day,Procedure not followed,0,N,Closed
+INC-0316,2026-04-14,W04,Near Miss,Low,Racking / Storage,Night,Lifting / rigging,0,N,Closed
+INC-0317,2026-04-16,W08,Near Miss,Low,Racking / Storage,Day,Poor housekeeping,0,N,Closed
+INC-0318,2026-04-19,W01,First Aid,Medium,Racking / Storage,Evening,Lifting / rigging,0,N,Closed
+INC-0319,2026-04-21,W02,Medical Treatment,Medium,Laydown Yard,Night,Procedure not followed,0,Y,Closed
+INC-0320,2026-04-24,W04,Near Miss,Medium,Dispatch Area,Evening,Poor housekeeping,0,N,Closed
+INC-0321,2026-05-01,W04,Near Miss,Low,Receiving Dock,Night,Adverse weather,0,N,Closed
+INC-0322,2026-05-03,W01,First Aid,Low,Racking / Storage,Evening,Poor housekeeping,0,N,Closed
+INC-0323,2026-05-04,W01,Near Miss,Low,Racking / Storage,Evening,Procedure not followed,0,N,Closed
+INC-0324,2026-05-06,W01,Near Miss,Medium,Receiving Dock,Day,Unsafe act,0,N,Closed
+INC-0325,2026-05-14,W01,Environmental Spill,Medium,Chemical Store,Day,Equipment failure,0,N,Closed
+INC-0326,2026-05-15,W07,Near Miss,Low,Dispatch Area,Night,Procedure not followed,0,N,Closed
+INC-0327,2026-05-21,W07,First Aid,Medium,Laydown Yard,Day,Unsafe act,0,N,Closed
+INC-0328,2026-05-23,W06,Near Miss,Low,Racking / Storage,Day,Procedure not followed,0,N,Closed
+INC-0329,2026-05-26,W06,Near Miss,Low,Chemical Store,Evening,Poor housekeeping,0,N,Closed
+INC-0330,2026-06-01,W01,Near Miss,Low,Racking / Storage,Evening,Poor housekeeping,0,N,Closed
+INC-0331,2026-06-01,W05,Near Miss,Medium,Receiving Dock,Day,Lifting / rigging,0,N,Closed
+INC-0332,2026-06-02,W07,Medical Treatment,Medium,Dispatch Area,Day,Unsafe act,0,Y,Closed
+INC-0333,2026-06-02,W06,Near Miss,Medium,Chemical Store,Day,Poor housekeeping,0,N,Closed
+INC-0334,2026-06-07,W02,Near Miss,Medium,Receiving Dock,Evening,Lifting / rigging,0,N,Closed
+INC-0335,2026-06-07,W01,Property Damage,Medium,Racking / Storage,Day,Poor housekeeping,0,N,Closed
+INC-0336,2026-06-11,W07,First Aid,Medium,Racking / Storage,Day,Poor housekeeping,0,N,Closed
+INC-0337,2026-06-11,W08,Near Miss,Low,Laydown Yard,Day,Lifting / rigging,0,N,Closed
+INC-0338,2026-06-15,W02,Near Miss,Low,Racking / Storage,Day,Equipment failure,0,N,Closed
+INC-0339,2026-06-20,W08,First Aid,Medium,Laydown Yard,Evening,Lifting / rigging,0,N,Closed
+INC-0340,2026-06-20,W06,Near Miss,Low,Chemical Store,Evening,Inadequate supervision,0,N,Closed
+INC-0341,2026-06-22,W02,Near Miss,Low,Laydown Yard,Day,Unsafe act,0,N,Closed
+INC-0342,2026-06-30,W01,Near Miss,Low,Racking / Storage,Day,Inadequate PPE,0,N,Closed
+INC-0343,2026-07-01,W01,Near Miss,Medium,Racking / Storage,Day,Equipment failure,0,N,Closed
+INC-0344,2026-07-03,W02,Near Miss,Medium,Racking / Storage,Evening,Inadequate PPE,0,N,Closed
+INC-0345,2026-07-05,W05,Near Miss,Low,Receiving Dock,Night,Unsafe act,0,N,Closed
+INC-0346,2026-07-15,W04,Near Miss,Low,Receiving Dock,Evening,Poor housekeeping,0,N,Closed
+INC-0347,2026-07-16,W06,First Aid,Medium,Laydown Yard,Day,Poor housekeeping,0,N,Closed
+INC-0348,2026-07-17,W05,First Aid,Low,Receiving Dock,Evening,Equipment failure,0,N,Closed
+INC-0349,2026-07-17,W01,Near Miss,Low,Receiving Dock,Night,Poor housekeeping,0,N,Closed
+INC-0350,2026-07-18,W03,Property Damage,Medium,Workshop,Evening,Unsafe act,0,N,Closed
+INC-0351,2026-07-22,W08,Near Miss,Medium,Laydown Yard,Day,Procedure not followed,0,N,Closed
+INC-0352,2026-07-24,W04,Near Miss,Low,Dispatch Area,Day,Lifting / rigging,0,N,Closed
+INC-0353,2026-07-25,W02,Near Miss,Low,Laydown Yard,Day,Equipment failure,0,N,Closed
+INC-0354,2026-07-28,W07,First Aid,Low,Laydown Yard,Day,Procedure not followed,0,N,Closed
+INC-0355,2026-07-30,W03,Near Miss,Low,Receiving Dock,Evening,Unsafe act,0,N,Closed
+INC-0356,2026-07-31,W01,Near Miss,Medium,Workshop,Day,Inadequate PPE,0,N,Closed
+INC-0357,2026-08-01,W05,Near Miss,Medium,Chemical Store,Day,Lifting / rigging,0,N,Closed
+INC-0358,2026-08-02,W07,Environmental Spill,High,Receiving Dock,Day,Lifting / rigging,0,N,Closed
+INC-0359,2026-08-08,W05,Property Damage,Medium,Receiving Dock,Evening,Adverse weather,0,N,Closed
+INC-0360,2026-08-11,W01,Near Miss,Low,Dispatch Area,Evening,Procedure not followed,0,N,Closed
+INC-0361,2026-08-15,W07,Near Miss,Low,Dispatch Area,Night,Lifting / rigging,0,N,Closed
+INC-0362,2026-08-15,W04,Near Miss,Low,Racking / Storage,Day,Unsafe act,0,N,Closed
+INC-0363,2026-08-19,W08,Near Miss,Low,Laydown Yard,Day,Lifting / rigging,0,N,Closed
+INC-0364,2026-08-24,W03,Near Miss,Medium,Workshop,Evening,Poor housekeeping,0,N,Open
+INC-0365,2026-08-24,W06,Near Miss,Low,Dispatch Area,Evening,Adverse weather,0,N,Open
+INC-0366,2026-08-25,W08,Near Miss,Low,Laydown Yard,Evening,Poor housekeeping,0,N,Closed
+INC-0367,2026-08-28,W01,First Aid,Medium,Workshop,Day,Inadequate PPE,0,N,Open
+INC-0368,2026-08-29,W08,Near Miss,Low,Receiving Dock,Day,Poor housekeeping,0,N,Open
+INC-0369,2026-09-07,W04,Environmental Spill,Medium,Receiving Dock,Night,Equipment failure,0,N,Open
+INC-0370,2026-09-14,W06,Near Miss,Low,Dispatch Area,Day,Procedure not followed,0,N,Closed
+INC-0371,2026-09-14,W08,Near Miss,Low,Dispatch Area,Day,Inadequate PPE,0,N,Open
+INC-0372,2026-09-15,W02,First Aid,Low,Dispatch Area,Day,Procedure not followed,0,N,Open
+INC-0373,2026-09-18,W05,Near Miss,Low,Receiving Dock,Day,Poor housekeeping,0,N,Open
+INC-0374,2026-09-24,W06,Near Miss,Low,Chemical Store,Day,Inadequate supervision,0,N,Open
+INC-0375,2026-09-25,W02,First Aid,Low,Racking / Storage,Night,Inadequate PPE,0,N,Open
+INC-0376,2026-09-27,W06,Near Miss,Medium,Chemical Store,Day,Poor housekeeping,0,N,Open
+INC-0377,2026-09-29,W08,Near Miss,Medium,Laydown Yard,Day,Unsafe act,0,N,Open

@@ -1,0 +1,451 @@
+material_id,material_name,category,std_unit_cost_usd,criticality,base_lead_time_days,hazardous,abc_class,total_issued_value_usd
+MAT-1001,SS316L Pipe 6in SCH80,Pipes & Fittings,421.31,C,57,N,A,358547.58
+MAT-1002,CS Pipe A106 Gr.B 6in SCH40,Pipes & Fittings,83.17,A,35,N,A,432652.67
+MAT-1003,Elbow 90deg LR 6in SCH80,Pipes & Fittings,758.76,C,35,N,B,277379.35
+MAT-1004,Duplex 2205 Pipe 16in SCH160,Pipes & Fittings,1082.78,B,50,N,A,327677.11
+MAT-1005,Duplex 2205 Pipe 12in SCH40,Pipes & Fittings,449.76,B,44,N,A,442088.97
+MAT-1006,SS316L Pipe 10in SCH160,Pipes & Fittings,154.67,C,25,N,A,389795.37
+MAT-1007,SS316L Pipe 4in SCH160,Pipes & Fittings,406.52,A,36,N,B,248325.86
+MAT-1008,Cap Butt Weld 10in SCH80,Pipes & Fittings,74.51,B,56,N,A,448490.54
+MAT-1009,SS316L Pipe 2in SCH80,Pipes & Fittings,92.28,B,24,N,B,235193.77
+MAT-1010,Reducer Concentric 4in SCH40,Pipes & Fittings,95.66,A,41,N,B,238060.91
+MAT-1011,CS Pipe A106 Gr.B 6in SCH160,Pipes & Fittings,184.19,A,57,N,B,220528.24
+MAT-1012,CS Pipe A106 Gr.B 6in SCH80,Pipes & Fittings,1124.3,B,52,N,B,240634.66
+MAT-1013,SS316L Pipe 2in SCH160,Pipes & Fittings,180.35,C,50,N,B,273686.33
+MAT-1014,Duplex 2205 Pipe 10in SCH80,Pipes & Fittings,68.91,A,56,N,B,261189.48
+MAT-1015,Duplex 2205 Pipe 12in SCH160,Pipes & Fittings,311.25,C,48,N,A,406189.76
+MAT-1016,Cap Butt Weld 4in SCH40,Pipes & Fittings,1219.98,B,35,N,C,156244.07
+MAT-1017,Cap Butt Weld 16in SCH80,Pipes & Fittings,1781.77,A,52,N,A,753783.55
+MAT-1018,Duplex 2205 Pipe 6in SCH160,Pipes & Fittings,56.54,A,28,N,C,129076.97
+MAT-1019,Reducer Concentric 2in SCH160,Pipes & Fittings,71.57,A,48,N,B,205162.16
+MAT-1020,Duplex 2205 Pipe 10in SCH160,Pipes & Fittings,387.3,B,59,N,A,389231.38
+MAT-1021,Cap Butt Weld 12in SCH80,Pipes & Fittings,1773.62,C,56,N,A,790253.93
+MAT-1022,Elbow 90deg LR 10in SCH40,Pipes & Fittings,1059.53,A,28,N,A,358327.83
+MAT-1023,Cap Butt Weld 12in SCH40,Pipes & Fittings,535.89,C,38,N,A,784115.43
+MAT-1024,Tee Equal 16in SCH80,Pipes & Fittings,745.96,B,39,N,C,161261.28
+MAT-1025,Reducer Concentric 6in SCH40,Pipes & Fittings,209.32,B,37,N,B,299048.01
+MAT-1026,CS Pipe A106 Gr.B 2in SCH40,Pipes & Fittings,1617.33,C,53,N,A,816262.02
+MAT-1027,Tee Equal 10in SCH80,Pipes & Fittings,1290.71,C,40,N,B,265896.45
+MAT-1028,Reducer Concentric 16in SCH40,Pipes & Fittings,985.19,C,33,N,A,347155.92
+MAT-1029,CS Pipe A106 Gr.B 16in SCH160,Pipes & Fittings,71.57,C,55,N,C,177897.64
+MAT-1030,Tee Equal 4in SCH160,Pipes & Fittings,1507.99,C,21,N,A,571300.53
+MAT-1031,Duplex 2205 Pipe 10in SCH40,Pipes & Fittings,391.06,B,28,N,B,316084.94
+MAT-1032,Duplex 2205 Pipe 2in SCH80,Pipes & Fittings,1374.22,C,40,N,A,1103601.52
+MAT-1033,Reducer Concentric 16in SCH80,Pipes & Fittings,99.52,B,57,N,B,261650.08
+MAT-1034,CS Pipe A106 Gr.B 16in SCH80,Pipes & Fittings,1470.85,A,52,N,A,616161.17
+MAT-1035,SS316L Pipe 6in SCH40,Pipes & Fittings,893.55,C,55,N,B,229115.57
+MAT-1036,Reducer Concentric 12in SCH40,Pipes & Fittings,738.15,A,51,N,B,198028.44
+MAT-1037,Reducer Concentric 8in SCH80,Pipes & Fittings,1470.29,A,54,N,A,676021.23
+MAT-1038,CS Pipe A106 Gr.B 10in SCH80,Pipes & Fittings,1107.59,B,34,N,A,456550.7
+MAT-1039,CS Pipe A106 Gr.B 8in SCH160,Pipes & Fittings,1373.26,C,33,N,A,953487.49
+MAT-1040,Duplex 2205 Pipe 6in SCH40,Pipes & Fittings,603.55,B,44,N,A,354113.97
+MAT-1041,CS Pipe A106 Gr.B 10in SCH40,Pipes & Fittings,212.0,C,28,N,B,213295.28
+MAT-1042,Duplex 2205 Pipe 4in SCH40,Pipes & Fittings,102.78,A,22,N,A,377804.41
+MAT-1043,Duplex 2205 Pipe 2in SCH160,Pipes & Fittings,375.54,B,35,N,A,342364.24
+MAT-1044,Elbow 90deg LR 10in SCH160,Pipes & Fittings,41.11,C,24,N,C,137215.04
+MAT-1045,SS316L Pipe 10in SCH40,Pipes & Fittings,95.62,C,42,N,B,233106.4
+MAT-1046,CS Pipe A106 Gr.B 4in SCH160,Pipes & Fittings,52.38,B,52,N,A,329369.89
+MAT-1047,Tee Equal 8in SCH40,Pipes & Fittings,90.41,A,57,N,A,346841.58
+MAT-1048,Duplex 2205 Pipe 12in SCH80,Pipes & Fittings,358.64,B,51,N,B,268823.58
+MAT-1049,Elbow 90deg LR 4in SCH160,Pipes & Fittings,865.02,A,27,N,A,392820.23
+MAT-1050,CS Pipe A106 Gr.B 12in SCH40,Pipes & Fittings,491.47,B,47,N,B,260005.69
+MAT-1051,Cap Butt Weld 2in SCH160,Pipes & Fittings,236.67,C,27,N,B,239557.66
+MAT-1052,CS Pipe A106 Gr.B 8in SCH80,Pipes & Fittings,50.38,C,27,N,A,336240.9
+MAT-1053,Cap Butt Weld 16in SCH40,Pipes & Fittings,103.07,A,49,N,A,451129.1
+MAT-1054,SS316L Pipe 12in SCH80,Pipes & Fittings,68.2,A,50,N,A,515244.07
+MAT-1055,Elbow 90deg LR 12in SCH160,Pipes & Fittings,103.52,C,49,N,C,97186.41
+MAT-1056,Safety Relief Valve 12in Class 300,Valves,1714.56,B,50,N,A,366967.43
+MAT-1057,Butterfly Valve 8in Class 300,Valves,783.55,C,71,N,B,262486.36
+MAT-1058,Gate Valve 12in Class 150,Valves,411.05,B,74,N,C,130589.82
+MAT-1059,Gate Valve 6in Class 150,Valves,209.83,B,71,N,B,306262.26
+MAT-1060,Control Valve 6in Class 600,Valves,1275.49,C,48,N,A,413188.19
+MAT-1061,Butterfly Valve 8in Class 150,Valves,2327.91,A,51,N,A,423686.11
+MAT-1062,Gate Valve 2in Class 300,Valves,758.33,B,54,N,A,404584.05
+MAT-1063,Gate Valve 8in Class 600,Valves,975.23,C,39,N,A,605000.49
+MAT-1064,Safety Relief Valve 6in Class 150,Valves,155.83,B,71,N,C,191710.08
+MAT-1065,Ball Valve 2in Class 150,Valves,8857.3,A,48,N,A,2051158.06
+MAT-1066,Globe Valve 6in Class 150,Valves,1190.23,A,57,N,B,195035.2
+MAT-1067,Check Valve 6in Class 300,Valves,5525.87,C,58,N,A,1476652.77
+MAT-1068,Butterfly Valve 2in Class 600,Valves,481.77,B,69,N,B,231940.67
+MAT-1069,Butterfly Valve 2in Class 300,Valves,2673.57,B,86,N,A,419483.38
+MAT-1070,Globe Valve 12in Class 150,Valves,2182.53,A,87,N,A,509877.24
+MAT-1071,Check Valve 6in Class 150,Valves,1452.97,C,41,N,A,602784.49
+MAT-1072,Gate Valve 6in Class 300,Valves,7008.92,A,42,N,A,1951287.58
+MAT-1073,Safety Relief Valve 4in Class 300,Valves,5729.74,C,44,N,A,1185427.6
+MAT-1074,Check Valve 4in Class 150,Valves,457.48,B,80,N,C,88209.71
+MAT-1075,Gate Valve 2in Class 150,Valves,610.64,B,89,N,A,358828.46
+MAT-1076,Check Valve 4in Class 300,Valves,442.07,B,89,N,C,169369.95
+MAT-1077,Ball Valve 4in Class 150,Valves,184.68,B,88,N,A,417835.3
+MAT-1078,Check Valve 12in Class 300,Valves,465.66,A,84,N,B,217463.53
+MAT-1079,Ball Valve 6in Class 150,Valves,256.28,C,45,N,C,56747.8
+MAT-1080,Check Valve 8in Class 150,Valves,3119.69,B,62,N,A,739664.18
+MAT-1081,Butterfly Valve 8in Class 600,Valves,1490.97,A,79,N,C,161304.68
+MAT-1082,Safety Relief Valve 2in Class 600,Valves,6073.14,B,88,N,A,3648405.25
+MAT-1083,Globe Valve 4in Class 300,Valves,680.16,B,62,N,A,416295.81
+MAT-1084,Globe Valve 8in Class 150,Valves,252.76,A,85,N,B,251056.52
+MAT-1085,Ball Valve 6in Class 300,Valves,8031.62,A,57,N,A,2829799.82
+MAT-1086,Safety Relief Valve 2in Class 150,Valves,354.52,A,41,N,B,245284.43
+MAT-1087,Control Valve 12in Class 300,Valves,638.24,B,90,N,B,317309.07
+MAT-1088,Safety Relief Valve 8in Class 150,Valves,791.94,B,44,N,A,459748.89
+MAT-1089,Butterfly Valve 12in Class 300,Valves,6641.09,A,45,N,A,1478634.09
+MAT-1090,Ball Valve 8in Class 300,Valves,8164.57,C,61,N,A,2600931.37
+MAT-1091,Control Valve 4in Class 300,Valves,166.02,C,56,N,C,165296.67
+MAT-1092,Safety Relief Valve 8in Class 600,Valves,3692.26,B,77,N,A,553978.97
+MAT-1093,Safety Relief Valve 2in Class 300,Valves,5158.55,C,52,N,A,764478.01
+MAT-1094,Butterfly Valve 4in Class 300,Valves,287.85,C,59,N,A,342662.29
+MAT-1095,Globe Valve 4in Class 600,Valves,5332.56,C,49,N,A,846782.29
+MAT-1096,Butterfly Valve 12in Class 150,Valves,339.6,C,57,N,B,204067.15
+MAT-1097,Gate Valve 8in Class 300,Valves,523.32,C,49,N,C,170432.21
+MAT-1098,Control Valve 4in Class 600,Valves,373.67,B,60,N,A,339511.97
+MAT-1099,Safety Relief Valve 6in Class 300,Valves,575.16,C,84,N,B,287553.89
+MAT-1100,Gate Valve 4in Class 300,Valves,470.35,B,60,N,B,312285.96
+MAT-1101,Stud Bolt Set 8in Class 600,Flanges & Gaskets,60.06,C,39,N,B,242203.73
+MAT-1102,RTJ Gasket 6in Class 600,Flanges & Gaskets,238.54,C,26,N,A,415127.12
+MAT-1103,Blind Flange 12in Class 150,Flanges & Gaskets,89.17,C,25,N,C,169806.24
+MAT-1104,WN Flange RF 4in Class 150,Flanges & Gaskets,178.41,B,14,N,A,391716.34
+MAT-1105,WN Flange RF 12in Class 600,Flanges & Gaskets,58.92,B,34,N,B,304268.47
+MAT-1106,Blind Flange 4in Class 150,Flanges & Gaskets,104.47,C,27,N,A,347495.62
+MAT-1107,Slip-On Flange 6in Class 300,Flanges & Gaskets,123.12,C,24,N,A,513616.0
+MAT-1108,RTJ Gasket 12in Class 600,Flanges & Gaskets,208.13,B,35,N,C,141533.22
+MAT-1109,Stud Bolt Set 8in Class 150,Flanges & Gaskets,27.88,C,29,N,C,169270.24
+MAT-1110,WN Flange RF 4in Class 300,Flanges & Gaskets,218.71,B,26,N,A,526347.95
+MAT-1111,WN Flange RF 12in Class 300,Flanges & Gaskets,33.77,A,44,N,B,310779.6
+MAT-1112,Stud Bolt Set 2in Class 300,Flanges & Gaskets,175.74,C,43,N,B,243301.43
+MAT-1113,Spiral Wound Gasket 8in Class 300,Flanges & Gaskets,87.29,C,26,N,B,321363.85
+MAT-1114,Blind Flange 12in Class 600,Flanges & Gaskets,257.16,B,39,N,A,402242.73
+MAT-1115,Blind Flange 8in Class 300,Flanges & Gaskets,47.62,C,14,N,B,224051.97
+MAT-1116,Stud Bolt Set 2in Class 600,Flanges & Gaskets,477.92,C,20,N,A,722673.6
+MAT-1117,RTJ Gasket 4in Class 600,Flanges & Gaskets,318.39,B,43,N,A,727201.88
+MAT-1118,Stud Bolt Set 8in Class 300,Flanges & Gaskets,23.91,B,21,N,B,205828.86
+MAT-1119,Spiral Wound Gasket 4in Class 300,Flanges & Gaskets,101.35,C,34,N,B,230987.54
+MAT-1120,Slip-On Flange 8in Class 150,Flanges & Gaskets,586.08,C,41,N,B,256807.48
+MAT-1121,Blind Flange 2in Class 600,Flanges & Gaskets,383.25,C,24,N,A,417505.26
+MAT-1122,WN Flange RF 4in Class 600,Flanges & Gaskets,281.37,C,30,N,A,402998.42
+MAT-1123,Stud Bolt Set 6in Class 300,Flanges & Gaskets,289.62,C,31,N,A,391771.68
+MAT-1124,WN Flange RF 2in Class 150,Flanges & Gaskets,304.44,C,29,N,A,356542.31
+MAT-1125,Slip-On Flange 8in Class 300,Flanges & Gaskets,53.09,A,32,N,B,326794.9
+MAT-1126,Spiral Wound Gasket 2in Class 300,Flanges & Gaskets,46.04,B,19,N,B,288966.23
+MAT-1127,RTJ Gasket 6in Class 300,Flanges & Gaskets,32.71,B,23,N,A,423058.77
+MAT-1128,Stud Bolt Set 4in Class 600,Flanges & Gaskets,246.48,A,40,N,A,749758.52
+MAT-1129,RTJ Gasket 2in Class 150,Flanges & Gaskets,64.85,C,17,N,B,272115.95
+MAT-1130,Stud Bolt Set 12in Class 150,Flanges & Gaskets,41.73,C,15,N,A,401587.64
+MAT-1131,Spiral Wound Gasket 12in Class 300,Flanges & Gaskets,420.61,C,38,N,A,840338.52
+MAT-1132,Slip-On Flange 6in Class 150,Flanges & Gaskets,109.02,C,33,N,A,425351.13
+MAT-1133,Blind Flange 8in Class 150,Flanges & Gaskets,291.37,C,40,N,A,588823.94
+MAT-1134,Slip-On Flange 4in Class 600,Flanges & Gaskets,135.54,C,28,N,C,177457.73
+MAT-1135,RTJ Gasket 2in Class 300,Flanges & Gaskets,113.47,B,45,N,B,306057.33
+MAT-1136,Spiral Wound Gasket 8in Class 150,Flanges & Gaskets,22.17,B,39,N,B,275880.73
+MAT-1137,WN Flange RF 6in Class 300,Flanges & Gaskets,262.55,C,22,N,A,336278.59
+MAT-1138,RTJ Gasket 4in Class 300,Flanges & Gaskets,653.63,C,39,N,A,531592.72
+MAT-1139,Slip-On Flange 4in Class 300,Flanges & Gaskets,164.04,C,19,N,A,352331.3
+MAT-1140,RTJ Gasket 8in Class 150,Flanges & Gaskets,196.55,B,43,N,B,324856.74
+MAT-1141,Temperature Transmitter SIL2 0-100 bar,Instrumentation,1195.25,C,52,N,B,209535.85
+MAT-1142,Pressure Transmitter Ex-d 0-10 bar,Instrumentation,584.62,B,32,N,B,246421.66
+MAT-1143,Flow Meter SIL2 0-10 bar,Instrumentation,1275.62,C,43,N,A,562448.47
+MAT-1144,Pressure Gauge 4-20mA HART 0-10 bar,Instrumentation,180.24,C,71,N,B,249602.73
+MAT-1145,Level Transmitter Foundation Fieldbus 0-100 bar,Instrumentation,1318.66,A,64,N,A,439103.12
+MAT-1146,Flow Meter Foundation Fieldbus 0-10 bar,Instrumentation,2729.36,A,55,N,A,568561.43
+MAT-1147,Pressure Gauge SIL2 0-40 bar,Instrumentation,1682.99,A,69,N,A,517148.29
+MAT-1148,Flame Detector Ex-d 0-40 bar,Instrumentation,468.58,C,80,N,C,123778.73
+MAT-1149,Level Transmitter Ex-d 0-40 bar,Instrumentation,849.3,B,51,N,B,279420.24
+MAT-1150,Flame Detector Ex-d 0-100 bar,Instrumentation,1517.45,C,73,N,B,245815.73
+MAT-1151,Flow Meter SIL2 0-100 bar,Instrumentation,221.02,A,61,N,C,157530.48
+MAT-1152,Pressure Gauge Foundation Fieldbus 0-100 bar,Instrumentation,5663.1,A,79,N,A,1610787.23
+MAT-1153,Flow Meter Ex-d 0-100 bar,Instrumentation,4715.76,C,57,N,A,2584359.4
+MAT-1154,Pressure Transmitter SIL2 0-40 bar,Instrumentation,682.89,B,45,N,C,189661.41
+MAT-1155,Thermocouple 4-20mA HART 0-10 bar,Instrumentation,434.48,A,33,N,A,338481.43
+MAT-1156,Pressure Transmitter 4-20mA HART 0-100 bar,Instrumentation,365.4,B,76,N,B,260021.87
+MAT-1157,Thermocouple SIL2 0-10 bar,Instrumentation,767.12,B,52,N,A,455764.55
+MAT-1158,Flame Detector SIL2 0-40 bar,Instrumentation,459.62,B,48,N,C,166444.28
+MAT-1159,Level Transmitter Ex-d 0-100 bar,Instrumentation,247.99,A,79,N,A,459463.43
+MAT-1160,Flow Meter Foundation Fieldbus 0-40 bar,Instrumentation,336.59,A,66,N,C,98408.04
+MAT-1161,Pressure Transmitter Ex-d 0-100 bar,Instrumentation,1971.72,A,28,N,A,1025390.89
+MAT-1162,Pressure Transmitter Foundation Fieldbus 0-100 bar,Instrumentation,943.79,A,43,N,B,276411.02
+MAT-1163,Pressure Transmitter Foundation Fieldbus 0-10 bar,Instrumentation,2126.17,B,76,N,A,574299.16
+MAT-1164,Flow Meter Ex-d 0-40 bar,Instrumentation,313.21,B,73,N,C,150200.17
+MAT-1165,Flow Meter 4-20mA HART 0-40 bar,Instrumentation,851.4,C,33,N,B,254831.1
+MAT-1166,Gas Detector Ex-d 0-100 bar,Instrumentation,388.42,B,43,N,A,503999.56
+MAT-1167,Temperature Transmitter Ex-d 0-40 bar,Instrumentation,407.44,B,58,N,B,311074.34
+MAT-1168,Flow Meter Ex-d 0-10 bar,Instrumentation,1093.34,A,75,N,B,255433.29
+MAT-1169,Temperature Transmitter Foundation Fieldbus 0-40 bar,Instrumentation,1079.96,A,57,N,A,360354.19
+MAT-1170,Gas Detector SIL2 0-10 bar,Instrumentation,353.9,A,35,N,C,148116.81
+MAT-1171,Temperature Transmitter 4-20mA HART 0-100 bar,Instrumentation,2136.46,A,75,N,A,564117.4
+MAT-1172,Flame Detector Ex-d 0-10 bar,Instrumentation,1019.12,C,39,N,A,413116.37
+MAT-1173,Pressure Gauge SIL2 0-100 bar,Instrumentation,257.79,B,45,N,B,194623.32
+MAT-1174,Gas Detector Foundation Fieldbus 0-100 bar,Instrumentation,2164.8,C,61,N,A,508915.55
+MAT-1175,Thermocouple Ex-d 0-40 bar,Instrumentation,1299.74,C,40,N,B,279662.05
+MAT-1176,Pressure Gauge 4-20mA HART 0-40 bar,Instrumentation,391.56,A,47,N,A,516012.19
+MAT-1177,Flame Detector SIL2 0-100 bar,Instrumentation,126.97,B,45,N,B,210976.72
+MAT-1178,Gas Detector SIL2 0-40 bar,Instrumentation,143.91,A,46,N,C,131794.69
+MAT-1179,Level Transmitter 4-20mA HART 0-100 bar,Instrumentation,1942.3,A,76,N,A,333943.01
+MAT-1180,Pressure Gauge SIL2 0-10 bar,Instrumentation,851.6,C,64,N,A,508313.83
+MAT-1181,Level Transmitter SIL2 0-100 bar,Instrumentation,373.38,B,49,N,C,169425.7
+MAT-1182,Level Transmitter SIL2 0-10 bar,Instrumentation,250.51,A,58,N,C,100928.71
+MAT-1183,Pressure Transmitter Ex-d 0-40 bar,Instrumentation,189.22,A,59,N,A,366481.89
+MAT-1184,Thermocouple Ex-d 0-10 bar,Instrumentation,161.29,B,31,N,B,318340.6
+MAT-1185,Flame Detector Foundation Fieldbus 0-100 bar,Instrumentation,219.91,C,47,N,B,249164.79
+MAT-1186,Gas Detector Ex-d 0-40 bar,Instrumentation,168.6,A,63,N,C,165911.41
+MAT-1187,Gas Detector Ex-d 0-10 bar,Instrumentation,2538.17,B,78,N,A,570699.91
+MAT-1188,Level Transmitter 4-20mA HART 0-40 bar,Instrumentation,1416.95,C,52,N,A,375712.71
+MAT-1189,Pressure Transmitter 4-20mA HART 0-40 bar,Instrumentation,724.86,B,65,N,A,344442.81
+MAT-1190,Pressure Gauge 4-20mA HART 0-100 bar,Instrumentation,6246.41,A,67,N,A,1019516.28
+MAT-1191,Power Cable 3C 35mm2,Electrical & Cables,314.09,B,46,N,A,430155.69
+MAT-1192,LV Motor 95mm2,Electrical & Cables,3376.53,C,52,N,A,1280655.04
+MAT-1193,Ex Lighting Fixture 10mm2,Electrical & Cables,268.98,C,48,N,A,346729.66
+MAT-1194,Instrument Cable 4mm2,Electrical & Cables,1189.96,C,22,N,A,815221.82
+MAT-1195,Ex Lighting Fixture 35mm2,Electrical & Cables,47.41,C,57,N,C,126396.72
+MAT-1196,Armoured Cable 35mm2,Electrical & Cables,568.53,A,69,N,A,390877.9
+MAT-1197,Transformer 2.5mm2,Electrical & Cables,871.1,B,23,N,A,599596.76
+MAT-1198,Ex Lighting Fixture 95mm2,Electrical & Cables,1373.14,A,54,N,A,1128494.17
+MAT-1199,Junction Box Ex-e 4mm2,Electrical & Cables,784.99,C,32,N,A,368103.48
+MAT-1200,Transformer 10mm2,Electrical & Cables,4431.65,B,52,N,A,1775818.8
+MAT-1201,Instrument Cable 2.5mm2,Electrical & Cables,3853.66,B,47,N,A,982941.3
+MAT-1202,Armoured Cable 2.5mm2,Electrical & Cables,159.38,C,31,N,C,155158.11
+MAT-1203,Junction Box Ex-e 2.5mm2,Electrical & Cables,156.6,C,39,N,A,464072.0
+MAT-1204,Armoured Cable 4mm2,Electrical & Cables,829.78,B,69,N,A,339155.78
+MAT-1205,LV Motor 2.5mm2,Electrical & Cables,472.26,B,41,N,B,233246.04
+MAT-1206,Power Cable 3C 95mm2,Electrical & Cables,106.26,A,70,N,A,457064.35
+MAT-1207,Transformer 35mm2,Electrical & Cables,227.32,C,21,N,A,381864.04
+MAT-1208,Power Cable 3C 2.5mm2,Electrical & Cables,809.56,C,47,N,B,325443.26
+MAT-1209,Cable Gland 4mm2,Electrical & Cables,39.36,C,60,N,B,227354.78
+MAT-1210,Cable Gland 35mm2,Electrical & Cables,1328.04,C,69,N,A,593860.46
+MAT-1211,Cable Tray 2.5mm2,Electrical & Cables,38.85,B,29,N,A,428796.48
+MAT-1212,Junction Box Ex-e 35mm2,Electrical & Cables,3132.0,B,65,N,A,1385959.35
+MAT-1213,Power Cable 3C 10mm2,Electrical & Cables,340.33,A,61,N,B,265991.73
+MAT-1214,Armoured Cable 95mm2,Electrical & Cables,633.99,B,31,N,C,127677.63
+MAT-1215,Instrument Cable 95mm2,Electrical & Cables,142.34,A,47,N,C,144582.32
+MAT-1216,MCC Breaker 10mm2,Electrical & Cables,47.86,C,28,N,C,53931.9
+MAT-1217,Cable Tray 95mm2,Electrical & Cables,302.88,A,30,N,A,402076.2
+MAT-1218,Cable Gland 95mm2,Electrical & Cables,364.44,C,53,N,A,557889.76
+MAT-1219,Cable Tray 4mm2,Electrical & Cables,1028.4,B,51,N,B,312701.32
+MAT-1220,Cable Tray 10mm2,Electrical & Cables,4075.9,B,56,N,A,1449502.3
+MAT-1221,MCC Breaker 4mm2,Electrical & Cables,61.93,A,59,N,C,149550.05
+MAT-1222,Instrument Cable 10mm2,Electrical & Cables,382.91,C,25,N,A,563885.32
+MAT-1223,Instrument Cable 35mm2,Electrical & Cables,119.75,C,47,N,A,368702.64
+MAT-1224,MCC Breaker 2.5mm2,Electrical & Cables,164.71,C,38,N,B,305267.16
+MAT-1225,Cable Tray 35mm2,Electrical & Cables,1831.1,B,40,N,A,1105402.93
+MAT-1226,Earthing Rod 4mm2,Electrical & Cables,1993.17,C,63,N,A,1011391.69
+MAT-1227,Earthing Rod 10mm2,Electrical & Cables,348.84,A,55,N,A,496314.55
+MAT-1228,Earthing Rod 95mm2,Electrical & Cables,339.7,B,69,N,B,280109.29
+MAT-1229,MCC Breaker 35mm2,Electrical & Cables,456.75,B,41,N,B,296033.98
+MAT-1230,Earthing Rod 35mm2,Electrical & Cables,2341.28,C,36,N,A,646810.84
+MAT-1231,LV Motor 4mm2,Electrical & Cables,526.51,B,70,N,A,437664.08
+MAT-1232,Ex Lighting Fixture 2.5mm2,Electrical & Cables,234.97,B,51,N,A,332025.49
+MAT-1233,Cable Gland 2.5mm2,Electrical & Cables,1027.45,C,45,N,A,353701.32
+MAT-1234,Power Cable 3C 4mm2,Electrical & Cables,4246.2,C,62,N,A,2890628.58
+MAT-1235,LV Motor 10mm2,Electrical & Cables,4087.62,B,23,N,A,1963390.71
+MAT-1236,Armoured Cable 10mm2,Electrical & Cables,56.47,C,42,N,B,321914.4
+MAT-1237,MCC Breaker 95mm2,Electrical & Cables,2342.44,C,49,N,A,1153844.65
+MAT-1238,Cable Gland 10mm2,Electrical & Cables,49.44,C,21,N,C,106258.88
+MAT-1239,Junction Box Ex-e 10mm2,Electrical & Cables,1120.02,B,62,N,A,782829.1
+MAT-1240,LV Motor 35mm2,Electrical & Cables,3871.11,A,37,N,A,3033819.87
+MAT-1241,Gearbox Repair Kit Type B,Rotating Equipment Spares,3246.55,A,63,N,A,445644.5
+MAT-1242,Lube Oil Filter Type B,Rotating Equipment Spares,732.23,B,103,N,B,236744.24
+MAT-1243,Centrifugal Pump Seal Type A,Rotating Equipment Spares,800.32,A,104,N,C,159373.8
+MAT-1244,Compressor Valve Plate API 682,Rotating Equipment Spares,9577.36,B,65,N,A,826693.12
+MAT-1245,Lube Oil Filter Standard,Rotating Equipment Spares,398.47,C,83,N,B,218700.26
+MAT-1246,Pump Impeller Standard,Rotating Equipment Spares,3495.54,A,77,N,B,268813.86
+MAT-1247,Centrifugal Pump Seal Standard,Rotating Equipment Spares,1736.13,A,94,N,C,192482.08
+MAT-1248,Mechanical Seal Heavy Duty,Rotating Equipment Spares,7967.9,A,93,N,A,817283.38
+MAT-1249,Compressor Valve Plate API 610,Rotating Equipment Spares,2701.87,B,82,N,A,472865.44
+MAT-1250,Gearbox Repair Kit Type A,Rotating Equipment Spares,326.39,C,95,N,C,177533.6
+MAT-1251,Mechanical Seal API 682,Rotating Equipment Spares,861.45,B,51,N,C,91872.98
+MAT-1252,Lube Oil Filter Heavy Duty,Rotating Equipment Spares,9929.95,B,81,N,A,1652439.28
+MAT-1253,Pump Impeller Type A,Rotating Equipment Spares,5913.41,A,90,N,A,371399.16
+MAT-1254,Pump Impeller Heavy Duty,Rotating Equipment Spares,696.05,A,77,N,C,149738.87
+MAT-1255,Flexible Coupling Type B,Rotating Equipment Spares,4058.03,B,62,N,A,818386.79
+MAT-1256,Gearbox Repair Kit API 610,Rotating Equipment Spares,3354.84,C,50,N,A,712753.7
+MAT-1257,Flexible Coupling Type A,Rotating Equipment Spares,983.4,A,91,N,C,152031.01
+MAT-1258,Gearbox Repair Kit Standard,Rotating Equipment Spares,5005.35,A,82,N,A,756149.64
+MAT-1259,Mechanical Seal Standard,Rotating Equipment Spares,1052.97,A,70,N,B,217915.83
+MAT-1260,Flexible Coupling API 682,Rotating Equipment Spares,498.54,B,91,N,C,101399.24
+MAT-1261,Pump Impeller Type B,Rotating Equipment Spares,2307.37,C,66,N,B,322429.73
+MAT-1262,Centrifugal Pump Seal Heavy Duty,Rotating Equipment Spares,805.39,C,106,N,C,160311.26
+MAT-1263,Lube Oil Filter Type A,Rotating Equipment Spares,12350.71,A,88,N,A,1273034.83
+MAT-1264,Gearbox Repair Kit Heavy Duty,Rotating Equipment Spares,6597.67,A,54,N,A,546363.62
+MAT-1265,Compressor Valve Plate Type B,Rotating Equipment Spares,515.28,C,95,N,C,64610.97
+MAT-1266,Lube Oil Filter API 682,Rotating Equipment Spares,12345.28,C,91,N,A,3154740.08
+MAT-1267,Centrifugal Pump Seal API 610,Rotating Equipment Spares,424.46,A,78,N,B,201297.33
+MAT-1268,Bearing Set Type B,Rotating Equipment Spares,2358.65,A,78,N,A,421378.37
+MAT-1269,Pump Impeller API 610,Rotating Equipment Spares,2836.33,C,92,N,A,510889.21
+MAT-1270,Pump Impeller API 682,Rotating Equipment Spares,454.94,A,48,N,C,149119.6
+MAT-1271,Bearing Set Heavy Duty,Rotating Equipment Spares,3244.51,C,86,N,A,878234.42
+MAT-1272,Mechanical Seal Type A,Rotating Equipment Spares,10108.57,A,53,N,A,2608436.46
+MAT-1273,Centrifugal Pump Seal Type B,Rotating Equipment Spares,3448.38,A,83,N,A,491957.13
+MAT-1274,Centrifugal Pump Seal API 682,Rotating Equipment Spares,3636.69,A,50,N,A,451978.7
+MAT-1275,Compressor Valve Plate Type A,Rotating Equipment Spares,11387.76,A,108,N,A,1262930.93
+MAT-1276,Bearing Set API 610,Rotating Equipment Spares,468.73,A,62,N,C,188786.47
+MAT-1277,Compressor Valve Plate Standard,Rotating Equipment Spares,1335.9,A,98,N,C,101821.55
+MAT-1278,Mechanical Seal API 610,Rotating Equipment Spares,2866.79,B,98,N,A,407574.27
+MAT-1279,Bearing Set Type A,Rotating Equipment Spares,3716.98,C,97,N,A,624377.61
+MAT-1280,Flexible Coupling API 610,Rotating Equipment Spares,11076.62,A,92,N,A,1968749.99
+MAT-1281,Bearing Set Standard,Rotating Equipment Spares,691.43,A,75,N,C,143071.39
+MAT-1282,Flexible Coupling Heavy Duty,Rotating Equipment Spares,8032.92,A,92,N,A,885623.44
+MAT-1283,Mechanical Seal Type B,Rotating Equipment Spares,2431.3,C,90,N,A,574982.89
+MAT-1284,Gearbox Repair Kit API 682,Rotating Equipment Spares,378.6,A,60,N,C,168894.04
+MAT-1285,Flexible Coupling Standard,Rotating Equipment Spares,11508.71,C,56,N,A,1197460.19
+MAT-1286,FR Coverall Premium,Safety & PPE,81.17,B,18,N,B,319185.81
+MAT-1287,Escape Mask Size M,Safety & PPE,29.04,A,23,N,A,464170.21
+MAT-1288,Safety Helmet Premium,Safety & PPE,7.99,C,30,N,A,377993.22
+MAT-1289,Safety Helmet Size L,Safety & PPE,95.84,C,23,N,B,325931.01
+MAT-1290,Cut-Resistant Gloves Premium,Safety & PPE,11.39,C,7,N,B,217461.23
+MAT-1291,FR Coverall Size L,Safety & PPE,3.93,B,19,N,B,257427.21
+MAT-1292,H2S Personal Monitor Standard,Safety & PPE,19.77,A,29,N,A,664375.35
+MAT-1293,Escape Mask Size L,Safety & PPE,167.68,A,9,N,C,173382.36
+MAT-1294,Safety Harness Standard,Safety & PPE,12.47,A,11,N,C,186253.56
+MAT-1295,Safety Boots S3 Size M,Safety & PPE,10.12,C,24,N,A,398274.72
+MAT-1296,Safety Boots S3 Standard,Safety & PPE,69.99,B,26,N,A,417277.38
+MAT-1297,Safety Glasses Premium,Safety & PPE,31.35,B,26,N,C,144403.76
+MAT-1298,Safety Harness Size M,Safety & PPE,20.11,C,10,N,A,394298.18
+MAT-1299,Safety Glasses Size M,Safety & PPE,130.37,C,24,N,B,247742.33
+MAT-1300,Safety Boots S3 Size L,Safety & PPE,72.73,B,21,N,A,493805.07
+MAT-1301,Safety Harness Size L,Safety & PPE,152.4,B,21,N,B,282429.16
+MAT-1302,H2S Personal Monitor Size M,Safety & PPE,17.5,C,17,N,B,314819.65
+MAT-1303,DCP Fire Extinguisher Size L,Safety & PPE,19.81,C,18,N,B,327344.48
+MAT-1304,Safety Glasses Size L,Safety & PPE,203.61,C,22,N,A,967346.13
+MAT-1305,Safety Helmet Standard,Safety & PPE,4.04,C,9,N,C,180867.48
+MAT-1306,Respirator Cartridge Premium,Safety & PPE,20.26,C,18,N,B,292477.15
+MAT-1307,Cut-Resistant Gloves Size M,Safety & PPE,108.74,C,25,N,B,278512.77
+MAT-1308,DCP Fire Extinguisher Size M,Safety & PPE,206.36,C,28,N,B,249657.05
+MAT-1309,Respirator Cartridge Size L,Safety & PPE,5.15,B,28,N,B,232582.43
+MAT-1310,Safety Harness Premium,Safety & PPE,192.69,B,30,N,A,399898.58
+MAT-1311,Escape Mask Premium,Safety & PPE,3.77,B,16,N,B,274813.52
+MAT-1312,Cut-Resistant Gloves Size L,Safety & PPE,14.21,C,13,N,A,341682.05
+MAT-1313,Cut-Resistant Gloves Standard,Safety & PPE,5.95,B,10,N,B,296693.24
+MAT-1314,Safety Helmet Size M,Safety & PPE,14.11,C,10,N,A,413862.1
+MAT-1315,FR Coverall Standard,Safety & PPE,87.49,C,20,N,A,365950.57
+MAT-1316,Respirator Cartridge Size M,Safety & PPE,126.04,C,26,N,B,269375.33
+MAT-1317,Escape Mask Standard,Safety & PPE,45.26,C,7,N,A,362085.24
+MAT-1318,H2S Personal Monitor Premium,Safety & PPE,44.35,C,29,N,B,221610.01
+MAT-1319,Respirator Cartridge Standard,Safety & PPE,9.79,B,29,N,C,136218.5
+MAT-1320,FR Coverall Size M,Safety & PPE,87.41,C,18,N,A,371997.75
+MAT-1321,H2S Personal Monitor Size L,Safety & PPE,3.08,C,25,N,C,125688.47
+MAT-1322,Safety Boots S3 Premium,Safety & PPE,54.92,A,30,N,B,231865.4
+MAT-1323,Safety Glasses Standard,Safety & PPE,49.35,A,30,N,B,303698.98
+MAT-1324,DCP Fire Extinguisher Premium,Safety & PPE,31.34,B,21,N,C,183377.94
+MAT-1325,DCP Fire Extinguisher Standard,Safety & PPE,13.55,B,30,N,C,73724.07
+MAT-1326,Methanol 5L Can,Chemicals & Lubricants,24.52,B,41,Y,B,277429.54
+MAT-1327,Hydraulic Oil ISO VG 32 5L Can,Chemicals & Lubricants,30.8,B,28,Y,C,161237.66
+MAT-1328,Demulsifier 20L Drum,Chemicals & Lubricants,116.31,C,36,Y,B,223771.24
+MAT-1329,Corrosion Inhibitor 1000L IBC,Chemicals & Lubricants,20.15,C,16,Y,C,172031.19
+MAT-1330,Lube Oil ISO VG 46 20L Drum,Chemicals & Lubricants,89.49,B,18,Y,A,438728.12
+MAT-1331,Lube Oil ISO VG 46 200L Drum,Chemicals & Lubricants,511.74,B,39,Y,A,426672.29
+MAT-1332,Hydraulic Oil ISO VG 32 200L Drum,Chemicals & Lubricants,273.96,B,21,Y,A,327514.2
+MAT-1333,Hydraulic Oil ISO VG 32 20L Drum,Chemicals & Lubricants,78.76,C,24,Y,A,359004.71
+MAT-1334,EP2 Grease 20L Drum,Chemicals & Lubricants,398.99,C,37,Y,A,333130.14
+MAT-1335,Lube Oil ISO VG 68 200L Drum,Chemicals & Lubricants,21.52,C,29,Y,A,427435.07
+MAT-1336,Methanol 20L Drum,Chemicals & Lubricants,89.29,B,19,Y,A,382080.14
+MAT-1337,Lube Oil ISO VG 68 20L Drum,Chemicals & Lubricants,75.83,B,35,Y,B,235448.55
+MAT-1338,Lube Oil ISO VG 68 1000L IBC,Chemicals & Lubricants,37.16,C,18,Y,C,171289.97
+MAT-1339,EP2 Grease 1000L IBC,Chemicals & Lubricants,121.29,A,26,Y,A,372097.15
+MAT-1340,Biocide 200L Drum,Chemicals & Lubricants,612.29,B,23,Y,A,662131.89
+MAT-1341,Biocide 5L Can,Chemicals & Lubricants,39.47,A,26,Y,C,138581.46
+MAT-1342,Lube Oil ISO VG 46 5L Can,Chemicals & Lubricants,30.52,A,18,Y,A,463081.61
+MAT-1343,Demulsifier 200L Drum,Chemicals & Lubricants,30.98,C,45,Y,C,175631.63
+MAT-1344,EP2 Grease 5L Can,Chemicals & Lubricants,100.25,B,42,Y,A,497683.96
+MAT-1345,Cleaning Solvent 20L Drum,Chemicals & Lubricants,243.92,C,34,Y,B,220041.48
+MAT-1346,Lube Oil ISO VG 46 1000L IBC,Chemicals & Lubricants,516.24,C,23,Y,B,295116.37
+MAT-1347,Antifoam 5L Can,Chemicals & Lubricants,90.79,B,33,Y,A,446355.42
+MAT-1348,Hydraulic Oil ISO VG 32 1000L IBC,Chemicals & Lubricants,390.92,B,36,Y,A,523249.94
+MAT-1349,Cleaning Solvent 1000L IBC,Chemicals & Lubricants,119.73,B,42,Y,B,241917.19
+MAT-1350,Antifoam 1000L IBC,Chemicals & Lubricants,17.5,B,32,Y,B,203518.25
+MAT-1351,Methanol 1000L IBC,Chemicals & Lubricants,20.54,C,19,Y,A,370805.51
+MAT-1352,Cleaning Solvent 200L Drum,Chemicals & Lubricants,186.07,B,43,Y,A,410373.58
+MAT-1353,Demulsifier 5L Can,Chemicals & Lubricants,161.44,C,16,Y,C,177530.21
+MAT-1354,Corrosion Inhibitor 5L Can,Chemicals & Lubricants,94.58,C,26,Y,A,707233.91
+MAT-1355,Biocide 1000L IBC,Chemicals & Lubricants,55.95,B,23,Y,A,492732.03
+MAT-1356,Methanol 200L Drum,Chemicals & Lubricants,756.95,B,35,Y,A,561547.07
+MAT-1357,Antifoam 200L Drum,Chemicals & Lubricants,837.38,A,25,Y,A,410414.87
+MAT-1358,Antifoam 20L Drum,Chemicals & Lubricants,17.61,C,42,Y,C,116560.76
+MAT-1359,Corrosion Inhibitor 20L Drum,Chemicals & Lubricants,128.22,C,37,Y,A,445489.46
+MAT-1360,Corrosion Inhibitor 200L Drum,Chemicals & Lubricants,69.04,B,40,Y,B,259063.12
+MAT-1361,Biocide 20L Drum,Chemicals & Lubricants,357.44,C,17,Y,B,298200.63
+MAT-1362,Lube Oil ISO VG 68 5L Can,Chemicals & Lubricants,379.71,C,18,Y,A,521751.75
+MAT-1363,EP2 Grease 200L Drum,Chemicals & Lubricants,57.85,B,38,Y,C,167444.69
+MAT-1364,Cleaning Solvent 5L Can,Chemicals & Lubricants,48.01,C,23,Y,B,254719.82
+MAT-1365,Demulsifier 1000L IBC,Chemicals & Lubricants,58.73,B,23,Y,C,132002.11
+MAT-1366,Channel UPN Gr.S355,Structural Steel,587.9,B,60,N,C,98336.91
+MAT-1367,Channel UPN 200,Structural Steel,2026.29,B,49,N,A,897718.39
+MAT-1368,Steel Plate 200,Structural Steel,226.64,B,36,N,A,410544.18
+MAT-1369,H-Beam HEB 300,Structural Steel,3208.23,C,49,N,A,830103.8
+MAT-1370,I-Beam IPE Gr.S275,Structural Steel,390.76,B,51,N,A,363623.03
+MAT-1371,Pipe Support Gr.S355,Structural Steel,2658.92,B,57,N,A,1013358.62
+MAT-1372,Grating Gr.S275,Structural Steel,3347.54,C,39,N,A,1372119.83
+MAT-1373,Steel Plate 100,Structural Steel,1854.67,C,47,N,A,609509.73
+MAT-1374,Channel UPN 400,Structural Steel,3177.88,C,59,N,A,1101729.19
+MAT-1375,Pipe Support 300,Structural Steel,297.21,B,51,N,A,336396.9
+MAT-1376,Pipe Support 200,Structural Steel,2441.13,C,27,N,B,313164.28
+MAT-1377,Channel UPN 300,Structural Steel,1532.25,C,28,N,A,681296.52
+MAT-1378,Grating 400,Structural Steel,452.25,C,38,N,A,382080.58
+MAT-1379,Angle Bar 200,Structural Steel,723.69,C,48,N,A,561576.75
+MAT-1380,Angle Bar Gr.S355,Structural Steel,260.04,C,49,N,A,427692.57
+MAT-1381,H-Beam HEB Gr.S275,Structural Steel,2515.7,C,47,N,A,454969.42
+MAT-1382,I-Beam IPE 100,Structural Steel,232.93,C,36,N,A,454192.17
+MAT-1383,Steel Plate 300,Structural Steel,604.02,A,35,N,A,362445.0
+MAT-1384,H-Beam HEB 400,Structural Steel,216.8,C,42,N,B,246553.52
+MAT-1385,Grating 200,Structural Steel,1926.4,B,39,N,A,906640.74
+MAT-1386,H-Beam HEB 100,Structural Steel,2763.05,C,29,N,A,1234952.96
+MAT-1387,H-Beam HEB Gr.S355,Structural Steel,1755.09,C,60,N,A,714847.15
+MAT-1388,Angle Bar 400,Structural Steel,203.03,A,37,N,B,216283.12
+MAT-1389,Steel Plate Gr.S275,Structural Steel,370.76,B,59,N,B,214515.62
+MAT-1390,H-Beam HEB 200,Structural Steel,905.88,B,39,N,A,480360.77
+MAT-1391,I-Beam IPE Gr.S355,Structural Steel,394.84,B,36,N,A,539118.92
+MAT-1392,Steel Plate 400,Structural Steel,665.1,C,50,N,A,359336.46
+MAT-1393,I-Beam IPE 200,Structural Steel,239.39,C,52,N,B,233914.94
+MAT-1394,Pipe Support 100,Structural Steel,1103.57,A,53,N,A,567785.59
+MAT-1395,Angle Bar 100,Structural Steel,1037.14,C,39,N,B,254577.47
+MAT-1396,Angle Bar 300,Structural Steel,683.27,C,36,N,A,329891.99
+MAT-1397,Grating 300,Structural Steel,1024.2,B,26,N,A,431564.81
+MAT-1398,Grating 100,Structural Steel,894.83,B,54,N,A,336291.68
+MAT-1399,Channel UPN Gr.S275,Structural Steel,949.17,C,53,N,A,346753.61
+MAT-1400,Pipe Support 400,Structural Steel,976.93,B,51,N,A,445234.27
+MAT-1401,Pipe Support Gr.S275,Structural Steel,226.54,B,44,N,B,257933.54
+MAT-1402,I-Beam IPE 300,Structural Steel,413.36,A,25,N,A,528322.55
+MAT-1403,Steel Plate Gr.S355,Structural Steel,536.58,C,27,N,B,274823.71
+MAT-1404,Grating Gr.S355,Structural Steel,1819.85,C,42,N,A,511376.7
+MAT-1405,Channel UPN 100,Structural Steel,293.0,B,42,N,C,102192.72
+MAT-1406,Zinc Primer Heavy Duty,Consumables & Tools,267.85,C,9,N,A,506800.43
+MAT-1407,Grinding Disc Pack of 50,Consumables & Tools,94.2,B,26,N,A,351292.58
+MAT-1408,Zinc Primer Pack of 50,Consumables & Tools,389.75,B,16,N,A,421418.24
+MAT-1409,Spanner Set Heavy Duty,Consumables & Tools,10.97,B,28,N,C,166756.78
+MAT-1410,Spanner Set Pack of 10,Consumables & Tools,9.58,C,20,N,A,467163.77
+MAT-1411,Zinc Primer Std,Consumables & Tools,4.84,C,21,N,A,420236.21
+MAT-1412,Scaffold Clamp Pack of 10,Consumables & Tools,2.5,C,18,N,C,193645.8
+MAT-1413,Grinding Disc Std,Consumables & Tools,51.98,C,27,N,A,651285.34
+MAT-1414,Welding Rod 6013 Std,Consumables & Tools,359.83,C,9,N,A,664524.31
+MAT-1415,Scaffold Clamp Std,Consumables & Tools,70.06,C,23,N,A,337365.13
+MAT-1416,Welding Electrode E7018 Pack of 10,Consumables & Tools,139.44,C,7,N,A,770510.33
+MAT-1417,PTFE Tape Pack of 10,Consumables & Tools,4.26,C,21,N,A,430922.93
+MAT-1418,Cutting Disc Std,Consumables & Tools,2.4,B,27,N,B,259144.88
+MAT-1419,Epoxy Paint 20L Heavy Duty,Consumables & Tools,13.93,C,25,N,B,276483.34
+MAT-1420,Cable Ties Pack of 50,Consumables & Tools,2.37,B,21,N,B,212725.79
+MAT-1421,Cable Ties Pack of 10,Consumables & Tools,305.0,C,9,N,A,510432.05
+MAT-1422,Gasket Sheet Std,Consumables & Tools,41.84,C,19,N,A,1021893.03
+MAT-1423,Epoxy Paint 20L Pack of 10,Consumables & Tools,10.58,B,10,N,A,549488.09
+MAT-1424,Grinding Disc Heavy Duty,Consumables & Tools,2.29,B,23,N,C,182271.05
+MAT-1425,PTFE Tape Std,Consumables & Tools,15.54,C,15,N,A,433847.53
+MAT-1426,Cable Ties Heavy Duty,Consumables & Tools,121.41,C,13,N,A,696710.39
+MAT-1427,Torque Wrench Pack of 10,Consumables & Tools,392.37,B,22,N,A,806928.47
+MAT-1428,PTFE Tape Heavy Duty,Consumables & Tools,5.78,B,9,N,A,333665.94
+MAT-1429,Cutting Disc Pack of 50,Consumables & Tools,21.94,C,21,N,A,388860.14
+MAT-1430,Zinc Primer Pack of 10,Consumables & Tools,394.24,C,17,N,A,341557.33
+MAT-1431,Welding Electrode E7018 Heavy Duty,Consumables & Tools,68.83,C,24,N,A,369528.25
+MAT-1432,Spanner Set Pack of 50,Consumables & Tools,35.37,C,12,N,A,558206.04
+MAT-1433,Welding Rod 6013 Pack of 10,Consumables & Tools,86.88,C,27,N,A,566751.7
+MAT-1434,Scaffold Clamp Heavy Duty,Consumables & Tools,5.03,C,14,N,B,277084.45
+MAT-1435,Scaffold Clamp Pack of 50,Consumables & Tools,3.8,B,11,N,C,152892.52
+MAT-1436,Gasket Sheet Pack of 10,Consumables & Tools,7.01,C,18,N,A,402377.82
+MAT-1437,Grinding Disc Pack of 10,Consumables & Tools,37.66,C,24,N,B,273917.51
+MAT-1438,Gasket Sheet Pack of 50,Consumables & Tools,3.98,C,9,N,B,234756.67
+MAT-1439,Torque Wrench Heavy Duty,Consumables & Tools,10.3,C,22,N,B,203744.19
+MAT-1440,Torque Wrench Pack of 50,Consumables & Tools,32.41,C,25,N,A,599530.11
+MAT-1441,Welding Rod 6013 Heavy Duty,Consumables & Tools,2.96,C,27,N,A,382381.57
+MAT-1442,Gasket Sheet Heavy Duty,Consumables & Tools,2.96,C,23,N,B,229101.55
+MAT-1443,Epoxy Paint 20L Std,Consumables & Tools,12.41,C,24,N,B,200229.99
+MAT-1444,Welding Rod 6013 Pack of 50,Consumables & Tools,59.32,B,11,N,A,556860.91
+MAT-1445,Spanner Set Std,Consumables & Tools,19.79,C,8,N,A,368801.66
+MAT-1446,Cutting Disc Heavy Duty,Consumables & Tools,163.71,C,16,N,B,199834.52
+MAT-1447,Cutting Disc Pack of 10,Consumables & Tools,4.79,C,14,N,B,294434.02
+MAT-1448,Welding Electrode E7018 Pack of 50,Consumables & Tools,12.51,C,16,N,A,426705.83
+MAT-1449,PTFE Tape Pack of 50,Consumables & Tools,176.83,B,27,N,A,329594.02
+MAT-1450,Cable Ties Std,Consumables & Tools,317.41,B,27,N,A,573361.92

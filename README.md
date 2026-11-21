@@ -112,3 +112,61 @@ Conditional suppliers are less reliable, reject more, and charge less.
 Dammam holds the leanest safety stock, so it has the highest stockout rate.
 Turnaround projects create demand spikes and the highest backorder rates.
 Steel-linked categories inflate faster than other categories.
+To regenerate the data:
+
+bash
+pip install -r requirements.txt
+python scripts/generate_oilgas_warehouse_dataset.py
+
+The seed is fixed (42), so the output is reproducible.
+
+Data model
+
+Dimension tables filter the fact tables (many-to-one, single direction):
+
+Material → purchase orders, material requests, movements, snapshots and stock policy (material_id)
+Warehouse → all fact tables and stock policy (warehouse_id)
+Project → purchase orders, material requests and movements (project_id)
+Supplier → purchase orders (supplier_id)
+Date_set → one date column per fact table: po_date, request_date, movement_date, snapshot_date, incident_date, and month_end_date for hours worked
+
+22 relationships in total. Supplier is not linked to the date table. Full details are in docs/data_model.md.
+
+Measures
+
+Core DAX measures (full list in docs/dax_measures.md):
+
+Area	Measures
+Procurement	Total PO Value, OTD %, Rejection Rate %, Avg Delay (Late POs), Overdue Payables, Price vs Std Cost
+Operations	Fill Rate %, Backorder Rate %, On-Time Issue %, Issued Value YoY %
+Inventory	Stock Value, Stockout Rate %, Days of Cover, Inventory Turns, Excess Stock %, Critical Items Below ROP
+Projects	Project Budget, Budget Used %, Budget Variance %, Projects Over Budget
+Safety	Total Incidents, TRIR, Lost Time Injuries, Days Lost, Near Miss %
+Tools and skills
+Power BI Desktop: data model, DAX, conditional formatting, page navigation
+Power Query: data typing and shaping
+DAX: KPIs, time intelligence, row-context measures
+Python (pandas, numpy): synthetic data simulation
+Repository structure
+oil-gas-warehouse-analytics/
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── data/                     # 12 CSV tables
+├── scripts/
+│   └── generate_oilgas_warehouse_dataset.py
+├── docs/
+│   ├── data_dictionary.md
+│   ├── data_model.md
+│   ├── dax_measures.md
+│   └── images/               # dashboard screenshots
+└── powerbi/                  # place the .pbix file here
+How to use
+Clone the repo.
+Open Power BI Desktop and choose Get data > Text/CSV, then load the files in data/.
+Build the relationships from docs/data_model.md, mark dim_date as the date table, and add the measures from docs/dax_measures.md.
+Author
+
+Imran Khan, Data Analyst LinkedIn · GitHub
+
+Licensed under the MIT License.
